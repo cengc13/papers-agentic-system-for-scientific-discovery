@@ -20734,5 +20734,1280 @@
       "materials"
     ],
     "code_url": null
+  },
+  {
+    "title": "Emerging Trends in Drug Discovery and Development: Toxicological Evaluation and Pharmaceutical Innovations",
+    "authors": [
+      "Dr. Kuldeep Singh Yadav",
+      "Raj Narayan Gupta",
+      "Nilesh S. Pendbhaje",
+      "M. Ambedkar",
+      "Lasya Marupudi",
+      "Dr. V. Rambabu"
+    ],
+    "abstract": "Drug discovery and development have undergone significant transformation due to advances in molecular biology,\nmedicinal chemistry, computational technologies, and biotechnology. Traditional pharmaceutical development methods\noften face challenges such as long development timelines, high costs, and high failure rates during clinical trials. The\nemergence of innovative therapeutic strategies and advanced analytical tools has improved the efficiency of identifying\nand optimizing drug candidates. These developments have expanded the scope of pharmaceutical research by enabling\nthe design of targeted therapeutics and novel drug delivery systems. This review aims to examine emerging trends in drug\ndiscovery and development, with particular emphasis on modern medicinal chemistry approaches, arti",
+    "source": "semantic_scholar",
+    "published_date": "2026-05-19",
+    "doi": "10.25258/ijddt.16.46s.13",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.25258/ijddt.16.46s.13",
+    "venue": "International Journal of Drug Delivery Technology",
+    "citation_count": 0,
+    "domains": [
+      "chemistry",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Discovery Science with Autonomous ML-Driven Continuous Flow Chemistry",
+    "authors": [
+      "Rigoberto Advincula",
+      "Jihua Chen"
+    ],
+    "abstract": "In the context of discovery science, particularly in autonomous ML-driven continuous-flow chemistry, AI and ML play pivotal roles in general data analytics by transforming raw experimental data into actionable insights for experimental design. AI encompasses broader systems like autonomous agents and large language models (LLMs), while ML focuses on algorithms that learn from data to predict, optimize, and classify outcomes. In continuous flow setups, where reactions occur in real-time streams, data analytics involves handling multimodal data (e.g., spectroscopic, geometric, kinetic) from sensors and in-line monitors. This enables closed-loop systems in self-driving labs (SDLs), where AI/ML analyzes trends, reduces noise, and guides iterative experiments to efficiently explore chemical spa",
+    "source": "chemrxiv",
+    "published_date": "2026-02-22",
+    "doi": "10.26434/chemrxiv.15000295/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15000295/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "From Atoms to Swarms: The Categorical Spine of Multiscale Materials Modeling and Autonomous Discovery",
+    "authors": [
+      "Markus J. Buehler"
+    ],
+    "abstract": "Many biological materials and material systems-silk, collagen, bone, spider webs and many others-achieve strength, toughness, adaptability, or resilience by organizing weak interactions and limited molecular alphabets hierarchically. In these systems, function often lives in the organization rather than in the components. Working with such materials computationally cannot mean computing at a single scale. It must mean moving information between scales without destroying what matters. Here we review research that has focused on attempts to identify, formalize, and now operationalize the invariants that survive those handoffs across scales, systems and modalities. The difficulty is structural: the invariants rarely coincide with the most visible features. A spider web is not robust because e",
+    "source": "chemrxiv",
+    "published_date": "2026-05-07",
+    "doi": "10.26434/chemrxiv.15002850/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15002850/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "FlowPilot: A Multi-Agent AI System for Continuous Flow Chemistry Process Design",
+    "authors": [
+      "Amirreza Mottafegh",
+      "Gwang-Noh Ahn"
+    ],
+    "abstract": "Designing a continuous flow process demands coordinated reasoning across fluid dynamics, heat and mass transfer, materials compatibility, and safety, a multi-domain problem exceeding the reliable scope of a single-shot large language model (LLM). We present FlowPilot, to our knowledge the first multi-agent AI pipeline for sustainable continuous flow process design. LLM agents interpret chemistry and mechanism, while a nine-step deterministic calculator and approximately 2,500 handbook-derived design rules perform all quantitative computation. A seven-agent Council deliberates over candidate designs under bounded domain authority, selecting a final design via a weighted Process Value Score quantifying improvement over batch. Benchmarking across a 4\u00d74 matrix of commercial and local LLM endpo",
+    "source": "chemrxiv",
+    "published_date": "2026-05-18",
+    "doi": "10.26434/chemrxiv.15003445/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15003445/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "From Literature Mining to Reaction Prediction and Mechanistic Investigation: An AI-Agent Framework for Microdroplet Chemistry",
+    "authors": [
+      "Ke Gong"
+    ],
+    "abstract": "In the past decade, microdroplet chemistry has developed rapidly and the remarkable acceleration of chemical reactions within microdroplets has attracted extensive attention. However, despite the growing number of experimental studies, the field remains highly fragmented, posing significant challenges for systematically summarizing and predicting reaction acceleration phenomena. To address this issue, a unified microdroplet chemistry framework is proposed by integrating literature standardization, machine learning\u2013based knowledge construction and multi-agent artificial intelligence (AI) guidance. A large language model (LLM)-assisted pipeline was employed for data extraction, resulting in a structured dataset comprising 861 curated records. Unsupervised clustering analysis reveals that mic",
+    "source": "chemrxiv",
+    "published_date": "2026-05-13",
+    "doi": "10.26434/chemrxiv.15003299/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15003299/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "A Comprehensive Review of Large Language Models and Agentic AI Systems for Chemistry and Materials Science",
+    "authors": [
+      "Michal Ezeh",
+      "Etinosa Osaro"
+    ],
+    "abstract": "The emergence of large language models (LLMs) has catalyzed a paradigm shift in computational chemistry and materials science, evolving from passive prediction tools to active autonomous agents capable of orchestrating complex scientific workflows. This review provides a comprehensive analysis of LLM based systems in chemistry and materials science from 2020 onwards, establishing a taxonomy that progresses from domain specific language models through tool augmented systems to fully autonomous closed loop discovery platforms. We systematically examine chemical foundation models including ChemBERTa, MoLFormer, and MolT5, alongside materials-focused architecture such as MatSciBERT and MatterGPT. We evaluate their capabilities across molecular property prediction, reaction planning, materials ",
+    "source": "chemrxiv",
+    "published_date": "2026-04-06",
+    "doi": "10.26434/chemrxiv.15001659/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001659/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Nikolas: Autonomous Discovery of Novel EGFR Kinase Inhibitors via the PRISM Meta-Cognitive Architecture",
+    "authors": [
+      "Pandurang Mopgar"
+    ],
+    "abstract": "Discovering targeted small-molecule therapeutics requires navigating a chemical space exceeding 10 60 drug-like compounds-a process traditionally demanding years of iterative synthesis and screening. We present Nikolas, a semi-autonomous AI agent powered by PRISM (Persistent Recursive Intelligence with Structured Metacognition)-a domainagnostic 5-layer meta-cognitive architecture that enables emergent chemical intuition through hierarchical memory and recursive self-reflection. Previously validated on inorganic CO 2 reduction catalysis, PRISM is applied here to de novo EGFR kinase inhibitor design for non-small cell lung cancer. The pipeline integrates GPT-5.2 for generative molecular reasoning, RDKit for multi-objective drug-likeness validation, and AutoDock Vina for physics-based docking",
+    "source": "chemrxiv",
+    "published_date": "2026-03-08",
+    "doi": "10.26434/chemrxiv.15000704/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15000704/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Leveraging AI/ML-driven Tools for Material Discovery and Critical Mineral Separations \u2020",
+    "authors": [
+      "Kunal Mondal",
+      "Christine Duval",
+      "Rigoberto C Advincula"
+    ],
+    "abstract": "Critical materials and rare earth elements (CM/REEs) are essential components for modern energy technologies, communication systems, security, and defense applications. However, CM/REE recovery from complex mining wastes remains a challenge. Currently used processes, dominated by solvent extraction and precipitation, are not well suited to complex environmental feedstocks such as coal fly ash, phosphogypsum, and metal mine tailings. Although there is intense interest in extracting CM/REEs via adsorptive processes due to their attractive selectivity and low solvent usage, the discovery of novel ligands with well-defined structure-property correlations and fast cycling rates remains challenging, particularly through scientific experimental design. In this Perspective, we discuss the signific",
+    "source": "chemrxiv",
+    "published_date": "2026-03-24",
+    "doi": "10.26434/chemrxiv.15001194/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001194/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Metal-Ligand Chemistry and Hybrid Nanomaterials: AI/ML for Design, Separations, and Self-Driving Laboratories",
+    "authors": [
+      "Rigoberto C Advincula",
+      "Jihua Chen"
+    ],
+    "abstract": "",
+    "source": "chemrxiv",
+    "published_date": "2026-03-11",
+    "doi": "10.26434/chemrxiv.15000827/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15000827/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Supervised multi-agent discovery of high-entropy layered double hydroxides for selective ethanol-to-acetate electrooxidation",
+    "authors": [
+      "Zixu Sun",
+      "Jiaqi Cao",
+      "Donglai Zhou",
+      "Man Luo",
+      "Zikai Xie",
+      "Jinpeng Li",
+      "Lulu Guo",
+      "Chade Lv",
+      "Shijie Chen",
+      "Linjiang Chen",
+      "Qing Zhu",
+      "Yan Huang",
+      "Daobin Liu",
+      "Jun Jiang",
+      "Yi Luo"
+    ],
+    "abstract": "Autonomous materials discovery platforms must deliver not only efficient optimization across high-dimensional chemical spaces, but also trustworthy system design that ensures safety, traceability, and robust scientific decision-making. Here we present AIChemist-Alpha, a hierarchical supervised multi-agent framework for scalable autonomous materials discovery. The framework separates orchestration, validation, and execution into distinct functional layers and integrates three reproducible system capabilities: traceable decision chains, data-flood governance that converts raw electrochemical signals into validated decision-grade abstractions, and supervised safety gates for risk-tiered experimental actions. We apply AIChemist-Alpha to the discovery of high-entropy layered double hydroxide (H",
+    "source": "chemrxiv",
+    "published_date": "2026-04-06",
+    "doi": "10.26434/chemrxiv.15001644/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001644/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Deep Learning for Materials and Additive Manufacturing: Towards AI-Enabled Closed-Loop Systems",
+    "authors": [
+      "Elmer C Peramo",
+      "Ida M Laureen",
+      "Ballesteros",
+      "Marianito Margarito",
+      "Alejandro H Espera",
+      "Erick L Ribeiro",
+      "Rigoberto C Advincula",
+      "C Rigoberto",
+      "Advincula"
+    ],
+    "abstract": "Artificial Intelligence (AI) is rapidly transforming both materials discovery and advanced manufacturing, yet these domains have traditionally evolved along largely independent research trajectories. Materials informatics has primarily focused on predicting material properties and discovering new compositions, whereas AI in Additive Manufacturing (AM) has largely focused on process monitoring, defect detection, and parameter optimization. Recent advances in DL architectures, multimodal data integration, and autonomous experimentation are beginning to bridge these domains by enabling closed-loop materials-manufacturing systems in which materials design, manufacturing processes, and real-time sensing are integrated through data-driven feedback. This review examines the emerging role of Deep ",
+    "source": "chemrxiv",
+    "published_date": "2026-03-15",
+    "doi": "10.26434/chemrxiv.15000912/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15000912/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "A ChemTwin System Enabling Collective Intelligence for Materials Discovery",
+    "authors": [
+      "Dongxu Gu",
+      "Daobin Liu",
+      "Yinuo Wang",
+      "Shan Gao",
+      "Jing He",
+      "Baicheng Zhang",
+      "Zhaoyong Jin",
+      "Ruru Meng",
+      "Xiaobo Li",
+      "Fei Zhang",
+      "Wenhui Zhong",
+      "Weiwei Shang",
+      "Lifeng Ding",
+      "Li Yang",
+      "Linjiang Chen",
+      "Zhuoying Zhu",
+      "Zheng Huang",
+      "Qing Zhu",
+      "Jun Jiang"
+    ],
+    "abstract": "Artificial intelligence (AI)-driven autonomous laboratories are transforming research paradigms and accelerating materials discovery 1-6. However, they still face several critical challenges, including the geographical distribution of experimental platforms with limited resource sharing, a lack of robust data privacy frameworks, and barriers to effective global collaboration for training and prediction. Here, we present ChemTwin, a system that coordinates geographically separated autonomous laboratories for collaborative materials discovery. We demonstrate its performance through three representative experiments that assess data consistency, timeliness, and multi-laboratory collaboration. By integrating a federated learning (FL) module, ChemTwin allocates experimental tasks across laborato",
+    "source": "chemrxiv",
+    "published_date": "2026-02-25",
+    "doi": "10.26434/chemrxiv.15000389/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15000389/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "materials"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Autonomous Computational Catalysis Research via Agentic Systems",
+    "authors": [
+      "Honghao Chen",
+      "Jiangjie Qiu",
+      "Yi Shen Tew",
+      "Xiaonan Wang"
+    ],
+    "abstract": "Fully automating the scientific process is a transformative ambition in materials science, yet current artificial intelligence masters isolated workflow fragments. In computational catalysis, a system autonomously navigating the entire research lifecycle from conception to a scientifically meaningful manuscript remains an open challenge. Here we present CatMaster, a catalysis-native multi-agent framework that couples project-level reasoning with the direct execution of atomistic simulations, machine-learning modelling, literature analysis, and manuscript production within a unified autonomous architecture. Across progressively demanding evaluations, CatMaster achieves perfect scores on four end-to-end short-form catalysis scenarios, reaches near-leaderboard performance on five of six MatBe",
+    "source": "chemrxiv",
+    "published_date": "2026-04-06",
+    "doi": "10.26434/chemrxiv.15001654/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001654/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "ZeoAgent: An LLM-Driven Agent for Automated Zeolite Design and Property Prediction",
+    "authors": [
+      "Jing Ping",
+      "Zhendong Liu"
+    ],
+    "abstract": "Artificial intelligence is transforming scientific research, yet most materials discovery approaches remain limited to isolated tasks. A key next step is therefore to develop agentic systems that can autonomously coordinate these tasks within iterative scientific workflows. Despite their broad industrial importance, the discovery of new zeolite frameworks remains highly challenging because of the lack of efficient discovery workflows and rational design strategies. Here we present ZeoAgent, a large language-model-driven agent system that autonomously coordinates zeolite structure analysis, property prediction, and framework design through natural-language interaction. Equipped with a suite of computational tools, ZeoAgent performs structure analysis and property prediction with results con",
+    "source": "chemrxiv",
+    "published_date": "2026-04-07",
+    "doi": "10.26434/chemrxiv.15001701/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001701/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "materials",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Molecular Simulations Assisted by an Artificial Intelligence Agent (ArIA)",
+    "authors": [
+      "Supphachok Chanmungkalakul",
+      "Michiel van der Ree",
+      "Andrea Giuntoli",
+      "Robert Pollice"
+    ],
+    "abstract": "Computational chemistry enables the investigation of molecular and materials properties through simulations. Among available methods, density functional theory (DFT) and time-dependent DFT (TDDFT) are widely applied because they provide practical error margins at affordable computational cost. Despite their broad utility, their effective application requires extensive training in both theoretical chemistry and basic programming, creating a significant entrance barrier for non-specialists. In this work, we develop an agentic artificial intelligence (AI) based on open-source large language models (LLMs) that can be readily deployed on a state-of-the-art personal computers (PCs). This agentic AI is capable of interpreting user instructions, performing simulations with the ORCA program suite, ",
+    "source": "chemrxiv",
+    "published_date": "2026-04-23",
+    "doi": "10.26434/chemrxiv.15002344/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15002344/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "ChemAgent: A Multi-Agent Attention Framework with Linear Distilled Encoding for Molecular Property Prediction and Chemical Reaction Optimization",
+    "authors": [
+      "Siqi Meng",
+      "Yuhang Shao"
+    ],
+    "abstract": "Molecular property prediction and chemical reaction optimization are critical for accelerating drug discovery and materials design, yet existing approaches face significant challenges in capturing long-range dependencies, dynamically adapting to molecular characteristics, integrating multi-modal chemical data, and modeling temporal variations in chemical processes. We propose ChemAgent, a unified multi-agent attention framework that addresses these limitations through four synergistic innovations. First, a Linear Attention Molecular Encoder (LAME) employs distilled attention with rotary position encoding restoration to capture long-range chemical bond dependencies with linear computational complexity. Second, a Multi-Agent Collaboration Module comprising three specialized agents for struct",
+    "source": "chemrxiv",
+    "published_date": "2026-05-07",
+    "doi": "10.26434/chemrxiv.15002835/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15002835/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Iterative Non-Canonical Amino Acid Peptide Drug Discovery via Sign-Direction Reproducible Evaluation: A Multi-Layer Verification Framework",
+    "authors": [
+      "Insan Kang"
+    ],
+    "abstract": "Non-canonical amino acid (ncAA) substitutions are central to peptide-drug development, yet quantitative in silico ranking of ncAA variants remains constrained by force-field junction parameters at the canonical / non-canonical boundary, charge-derivation provenance, and the limited reproducibility of MM-PBSA / MM-GBSA scoring at small mutational scales. Khoury et al. (2014) reported a comprehensive same-system MM-GBSA / experimental correlation of R\u00b2 = 0.388 over 147 ncAAs, defining a defensible field ceiling that newer methods only partially close.\n                We present UPDD (Universal Peptide Drug Discovery), a five-stage iterative pipeline whose differentiating contribution is its Stage-4 evaluation framework for ncAA-modified peptide complexes (ncAA parameterisation \u2192 restrained M",
+    "source": "chemrxiv",
+    "published_date": "2026-05-10",
+    "doi": "10.26434/chemrxiv.15002948/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15002948/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "An Iterative Evaluation Framework for Non-Canonical Amino Acid Peptide Drug Discovery: Sign-Direction Reproducible Multi-Layer Verification",
+    "authors": [
+      "Insan Kang"
+    ],
+    "abstract": "Non-canonical amino acid (ncAA) substitutions are central to peptide-drug development, yet quantitative in silico ranking of ncAA variants remains constrained by force-field junction parameters at the canonical / non-canonical boundary, charge-derivation provenance, and the limited reproducibility of MM-PBSA / MM-GBSA scoring at small mutational scales. Khoury et al. (2014) reported a comprehensive same-system MM-GBSA / experimental correlation of R\u00b2 = 0.388 over 147 ncAAs, defining a defensible field ceiling that newer methods only partially close.\n                We present UPDD (Universal Peptide Drug Discovery), a five-stage iterative pipeline whose differentiating contribution is its Stage-4 evaluation framework for ncAA-modified peptide complexes (ncAA parameterisation \u2192 restrained M",
+    "source": "chemrxiv",
+    "published_date": "2026-05-12",
+    "doi": "10.26434/chemrxiv.15002948/v2",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15002948/v2",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "STALAgent: A Multi-Agent System Based on Large Language Model (LLM) for Steel and Alloy Design",
+    "authors": [
+      "Jiayi Qiu",
+      "Youle Wang",
+      "Fan Jiang",
+      "Song Wei",
+      "Lei Zhang"
+    ],
+    "abstract": "The design of steel and alloy materials is of critical importance across a wide range of industrial applications; however, effective intelligent agent-based assistants for this domain remain limited. To address this gap, we introduce STALAgent, a large language model (LLM)-based multi-agent system specifically tailored for intelligent and automated design of steel and alloy materials. STALAgent is centered on an LLM brain with several key agents (e.g., task assignment, semantic search, inverse design and heat treatment simulation) that collectively form a closed-loop workflow from user query to material recommendation. This system leverages a CrewAI-based orchestrator to intelligently assign tasks and coordinate a suite of specialized agents, including tools for knowledge retrieval using r",
+    "source": "chemrxiv",
+    "published_date": "2026-03-23",
+    "doi": "10.26434/chemrxiv.15001153/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001153/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "materials",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Reaction-aware control of autonomous batch synthesis",
+    "authors": [
+      "Zuyang Ye",
+      "Young-Jae Ryu",
+      "Shuan Cheng",
+      "Kshithij Mysore Nandishwara",
+      "Kai Xiang Chong",
+      "Aditya Prasad",
+      "Hardik Jain",
+      "Artin Tajdini",
+      "Kevin Jamieson",
+      "Shijing Sun"
+    ],
+    "abstract": "Autonomous experimentation is transforming materials discovery; however, information gained from widely used batch synthesis and characterization workflows is limited by endpoint measurements and fixed robotic protocols that treat chemical reactions as black boxes. Here, we introduce a reaction-aware autonomous framework that incorporates crystallization trajectories into the adaptive experimental design, enabling kinetics-informed decision-making in self-driving laboratories. These trajectories, collected through\n                  in situ\n                  optical monitoring, are converted into kinetic descriptors that simultaneously adapt measurement intervals, batch sizes, and formulation variables. Using the solution-phase crystallization of ZIF-67 as a model system, we built a DIY rob",
+    "source": "chemrxiv",
+    "published_date": "2026-05-21",
+    "doi": "10.26434/chemrxiv.15000333/v2",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15000333/v2",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "AI-Driven Electrocatalysis: Adaptive Control of the Glycerol Oxidation Reaction via Reinforcement Learning",
+    "authors": [
+      "Vladislav Mints",
+      "Maria-Magdalena Titirici",
+      "Ifan Stephens"
+    ],
+    "abstract": "In this work, we present the full development process of a reinforcement-learning-based controller deployed in a closed-loop experimental setup to optimize the glycerol electrooxidation reaction. The conversion of glycerol to valuable products on platinum has attracted attention as a substitute for the oxygen evolution reaction in hydrogen-producing electrolyzers, motivated by the availability of glycerol as an inexpensive byproduct of biodiesel production. However, the glycerol oxidation reaction is known to poison platinum requiring an intelligent operation procedure to sustain high conversion rates. The employed AI controller autonomously discovered a non-periodic pulsing strategy, which achieved on average a 30% higher charge transfer rate over the human-engineered pulsing protocol. In",
+    "source": "chemrxiv",
+    "published_date": "2026-04-08",
+    "doi": "10.26434/chemrxiv-2025-kxg13/v2",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv-2025-kxg13/v2",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "End-to-end discovery of MOFs for ambient CH4 adsorption",
+    "authors": [
+      "Andrea Dar\u00f9",
+      "Jianheng Ling",
+      "Xiaoliang Wang",
+      "Omar K. Farha",
+      "Massimiliano Delferro",
+      "John S. Anderson",
+      "Laura Gagliardi"
+    ],
+    "abstract": "We report an end-to-end computational\u2013experimental workflow for the discovery of metal\u2013organic frameworks (MOFs), demonstrated by the computational design and synthesis of two novel Zn-based frameworks, UCHI-1 and UCHI-2, exhibiting enhanced methane uptake and selectivity at low pressure under ambient conditions (298 K, 1 bar). The workflow enables the rational selection and experimental realization of metal-organic frameworks combining data mining, machine-learning driven adsorption prediction, and structure generation, with experimental synthesis and validation within a closed-loop discovery pipeline. Analysis of existing and newly generated MOFs reveals the structure\u2013property relationships governing low-pressure methane adsorption, identifying an optimal pore size and shape, framework d",
+    "source": "chemrxiv",
+    "published_date": "2026-05-18",
+    "doi": "10.26434/chemrxiv.15003500/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15003500/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Recent Advances and Perspectives of Artificial Intelligence in the Discovery of Enzyme Inhibitors for Metabolic Syndrome: A Focus on Computational Design and Data Platforms",
+    "authors": [
+      "Uriel Zagada Dominguez"
+    ],
+    "abstract": "The discovery of enzyme inhibitors for Metabolic Syndrome (encompassing obesity and type 2 diabetes mellitus) is undergoing a paradigm shift driven by data science and computational power. This review article systematically analyzes recent literature (2019-2024), focusing on Artificial Intelligence (AI)-assisted rational drug design, the exploitation of ultra-large chemical spaces, and the underlying database infrastructures. We examine how Deep Learning architectures-specifically molecular Graph Neural Networks (GNNs), Transformers, and Generative Adversarial Networks (GANs)-have optimized the screening and de novo design of inhibitors targeting DPP-4, PTP1B, and Pancreatic Lipase. Our analysis indicates that integrating makeon-demand databases with AI platforms allows researchers to expl",
+    "source": "chemrxiv",
+    "published_date": "2026-03-25",
+    "doi": "10.26434/chemrxiv.15001219/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001219/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "ChemSpace Copilot: Agentic AI for Interactive Visualization and Exploration of Chemical Space",
+    "authors": [
+      "Alexey A Orlov",
+      "Mikhail Volkov",
+      "Evgeniia S Milova",
+      "Dragos Horvath",
+      "Alexandre Varnek"
+    ],
+    "abstract": "Chemography provides a foundational approach to exploring chemical space by compressing high-dimensional representations of chemical structures into 2D maps, enabling clearer interpretation of similarity, diversity, and activity. Such maps power core chemoinformatics tasksstructure-activity relationship analysis, library design, virtual screening, and de novo design. In practice, effective use of chemography relies on manual application of data analysis tools and expert-driven interpretation of the resulting landscapes for hypothesis generation. To automate chemography-guided discovery, we introduce ChemSpace Copilotan agentic AI application that encapsulates standard chemographic workflows based on the non-linear dimensionality reduction technique Generative Topographic Mapping (GTM). Che",
+    "source": "chemrxiv",
+    "published_date": "2026-03-02",
+    "doi": "10.26434/chemrxiv.15000527/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15000527/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "VirtualLab_CC: An LLM-Augmented Virtual Laboratory for Automated Computational Chemistry Research",
+    "authors": [
+      "Martina Kieninger",
+      "Marc Segovia",
+      "Mauricio Vega-Teijido",
+      "Aline Katz",
+      "Anabela Martinez",
+      "Elena Vuan",
+      "Kenneth Irving",
+      "Oscar N. Ventura"
+    ],
+    "abstract": "Recent advances in large language models (LLMs) have opened new avenues for automating scientific research workflows. Systems like the AI Scientist [1] demonstrate fully autonomous endto-end research pipelines for machine learning, but their applicability to domains requiring expensive high-performance computing (HPC) resources, specialized quantum chemistry software, and rigorous thermochemical accuracy remains unexplored. Here we present VirtualLab_CC, a hybrid LLM-augmented virtual laboratory for computational chemistry that integrates Claude (Anthropic) as an orchestration layer with a multi-agent architecture, gated lifecycle management, and bidirectional HPC cluster synchronization. Unlike fully autonomous systems, VirtualLab_CC enforces human-in-the-loop quality gates at every criti",
+    "source": "chemrxiv",
+    "published_date": "2026-04-27",
+    "doi": "10.26434/chemrxiv.15002407/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15002407/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "The Ballad of LLM Agents: Philosophical Reasoning for Chemistry",
+    "authors": [
+      "Hassan Harb",
+      "Yunkai Sun",
+      "Mustafa Unal",
+      "Nicholas Chia",
+      "Zhenzhen Yang",
+      "Brian Ingram",
+      "Rajeev Surendran Assary"
+    ],
+    "abstract": "Large language models (LLMs) show remarkable potential for scientific reasoning but often produce unreliable or scientifically unactionable outputs when faced with multi-step logic, domain grounding, and interpretability challenges, especially in complex fields like chemistry and materials science. Here, we introduce a framework of philosophical reasoning agents, inspired by canonical thinkers such as Socrates, Descartes, Kant, and Hume, to guide LLM behavior via structured prompt engineering. These agents embody distinct reasoning paradigms,(dialectical inquiry, deductive logic, rule-based judgment, and empirical validation),and are evaluated across multiple chemistry subdomains (such as physical, organic, and general chemistry) using the ChemBench benchmark. Our agentic prompting approac",
+    "source": "chemrxiv",
+    "published_date": "2026-04-08",
+    "doi": "10.26434/chemrxiv.15001731/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001731/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Iterative LLM-driven de novo drug design with multi-method consensus scoring: a case study on EGFR T790M/L858R",
+    "authors": [
+      "Maytham Muthanna Muneam"
+    ],
+    "abstract": "We present a closed-loop de novo drug-design pipeline in which a large language model (Claude Opus 4.7) acts as the reasoning generator inside an iterative loop with classical physics-based filters (RDKit drug-likeness, PAINS, SA), AutoDock Vina docking, MM-GBSA rescoring (amber14 + SMIRNOFF + OBC2), and short implicit-solvent molecular dynamics for pose-stability triage. Unlike generative neural networks, the LLM emits a structured rationale per proposal \u2014 making the chemistry behind every design auditable. Applied to EGFR T790M/L858R (PDB 4ZAU) over three feedback rounds with 60 proposals, the pipeline produced 27 unique candidates with docking scores ranging from \u22128.0 to \u22129.91 kcal/mol. A re-dock against wild-type EGFR (PDB 1M17) followed by single-trajectory MM-GBSA on the top five hit",
+    "source": "chemrxiv",
+    "published_date": "2026-05-21",
+    "doi": "10.26434/chemrxiv.15003690/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15003690/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "A modular and affordable self-driving laboratory enables vision-guided optimization of metal electrodeposition",
+    "authors": [
+      "Michael Pence",
+      "Griffyn Sgro",
+      "Bingxin Yang",
+      "Long Luo"
+    ],
+    "abstract": "Metal electrodeposition is a widely used materials synthesis technique; however, industrial applications often require optimization of complex precursor formulations and electrodeposition parameters, which is typically performed in a slow, inefficient, and empirical manner. Self-driving labs (SDLs) that combine automated electrodeposition with machine-learning-guided decision-making could accelerate discovery in these complex, high-dimensional parameter spaces, but they face practical challenges. Notably, automated electrodeposition platforms need a continuous supply of pristine electrode surfaces, preservation and logging of electrodeposited samples, and the ability to easily incorporate non-electrochemical, downstream characterization. To overcome these challenges, we developed a modular",
+    "source": "chemrxiv",
+    "published_date": "2026-04-16",
+    "doi": "10.26434/chemrxiv.15001858/v2",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001858/v2",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Human Body as a Model for Distributed Intelligence in Self-Driving Laboratories",
+    "authors": [
+      "Jean-Charles Cousty",
+      "Pascal Mi\u00e9ville"
+    ],
+    "abstract": "Self-driving laboratories are emerging as a transformative paradigm for accelerating scientific discovery through the integration of artificial intelligence, automation, and robotics. However, the intrinsic complexity and unpredictability of experimental environments challenge the feasibility of fully centralized laboratory control architectures. In this perspective, we propose the human body as a conceptual model for the design of distributed-intelligence self-driving laboratories. Inspired by the organization of the nervous system, we distinguish two complementary levels of control: a high-level cognitive layer responsible for reasoning, planning, and scientific decision-making, and a distributed adaptive layer responsible for local operational optimization, sensing, and real-time reacti",
+    "source": "chemrxiv",
+    "published_date": "2026-05-18",
+    "doi": "10.26434/chemrxiv.15003459/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15003459/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Multi-task scheduling of self-driving laboratories under scientific constraints",
+    "authors": [
+      "Junyi Zhou",
+      "Luyao Ge",
+      "Xiaobo Li",
+      "Lulu Guo",
+      "Linjiang Chen",
+      "Jun Jiang",
+      "Weiwei Shang"
+    ],
+    "abstract": "Self-driving laboratories (SDLs) integrate automation, robotics, and artificial intelligence to autonomously execute scientific experiments. As SDLs evolve toward concurrent multi-task execution and support for heterogeneous experiments, experimental scheduling becomes a critical decision-making layer, determining the temporal order and execution timing of operations under strict scientific constraints, including operation precedence, station allocation, batch processing, experimental parameters, and critically, time synchronization between consecutive operations. For example, in inorganic synthesis, temporal deviations during nucleation can fundamentally alter material properties. While SDLs offer a promising route toward accelerated discovery, the absence of explicit scheduling for concu",
+    "source": "chemrxiv",
+    "published_date": "2026-05-05",
+    "doi": "10.26434/chemrxiv.15002068/v3",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15002068/v3",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Multi-task scheduling for chemical processes in self-driving laboratories under scientific constraints",
+    "authors": [
+      "Junyi Zhou",
+      "Luyao Ge",
+      "Xiaobo Li",
+      "Lulu Guo",
+      "Linjiang Chen",
+      "Jun Jiang",
+      "Weiwei Shang"
+    ],
+    "abstract": "Self-driving laboratories (SDLs) integrate process automation, robotics, and artificial intelligence (AI) to accelerate chemical discovery. As SDLs evolve toward concurrent multi-task execution, experimental scheduling becomes a critical decision-making layer, determining the ordering and timing of operations under strict scientific constraints, including operation precedence, station allocation, batch processing, experimental parameters, and critically, time synchronization between consecutive operations. For example, in inorganic synthesis, temporal deviations during nucleation can fundamentally alter material properties. The absence of scheduling for concurrent chemical processes leads to resource conflicts and uncontrolled interruptions, undermining the reproducibility and data quality",
+    "source": "chemrxiv",
+    "published_date": "2026-04-27",
+    "doi": "10.26434/chemrxiv.15002068/v2",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15002068/v2",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Bridging decision-making engines and workflow design in self-driving laboratories: A NIMO\u2013IvoryOS integration study",
+    "authors": [
+      "Naruki Yoshikawa",
+      "Taiga Ozawa",
+      "Wenyu Zhang",
+      "Jason E Hein",
+      "Ryo Tamura",
+      "Shoichi Matsuda"
+    ],
+    "abstract": "Self-driving laboratories (SDLs) have the potential to accelerate scientific discovery, but their development often requires substantial programming effort. To lower this barrier, we present an integrated orchestration framework that combines NIMO and IvoryOS. In this framework, NIMO provides decision-making algorithms for autonomous experimentation, while IvoryOS offers an intuitive web interface automatically generated from Python code. We demonstrate the utility of this integration through an automated study of the coffee ring effect. The proposed framework offers a practical pathway toward more accessible SDLs.",
+    "source": "chemrxiv",
+    "published_date": "2026-03-06",
+    "doi": "10.26434/chemrxiv.15000670/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15000670/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Artificial Coater: An In Situ Self-Driving Lab Reveals Design Rules and Mechanisms for Ambient Perovskite Film Fabrication",
+    "authors": [
+      "Nathan Woodward",
+      "Boyu Guo",
+      "Mihir Chauhan",
+      "Jacob Mauthe",
+      "Gaurab J Thapa",
+      "Yash Bharodiya",
+      "John F Muth",
+      "Milad Abolhasani",
+      "Kristofer G Reyes",
+      "Aram Amassian"
+    ],
+    "abstract": "Ambient solution-processing of metal halide perovskites remains highly sensitive to subtle variations in environment, formulation, and human technique, often leading to unpredictable outcomes and limited mechanistic understanding. Despite rapid advances in materials and device performance, researchers continue to rely heavily on manual and intuition-driven optimization, inconsistent fabrication protocols, and subjective film quality evaluation. These challenges persist across diverse coating methods, including but not limited to antisolvent dripping, which is especially sensitive to ambient manufacturing. In this work, we present the Artificial Coater, a self-driving laboratory platform that integrates closed-loop Bayesian optimization, in situ UV-Vis and photoluminescence spectroscopy, an",
+    "source": "chemrxiv",
+    "published_date": "2026-03-24",
+    "doi": "10.26434/chemrxiv.15001176/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001176/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "materials"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "ChemVLMate: a multimodal, dual-arm, seeing robotic chemist for adaptive synthesis",
+    "authors": [
+      "Tao Song",
+      "Weixing Chen",
+      "Xiaobo Li",
+      "Hengtao Lei",
+      "Liang Zhang",
+      "Hongli Zhang",
+      "Gang Zou",
+      "Linjiang Chen",
+      "Weiwei Shang",
+      "Jun Jiang"
+    ],
+    "abstract": "Chemical synthesis is a dynamic process. Chemists rely on a perception-reasoning-manipulation loop to interpret evolving experimental environments and states and adapt operations real-time. Yet most robotic chemistry platforms remain perception-blind, executing static scripts that assume nominal behaviours and fixed environments. Here we introduce ChemVLMate, a multimodal dualarm robotic chemist that closes the perception\u2013reasoning\u2013manipulation loop by grounding decision making in real-time vision. An open-vocabulary vision\u2013language model converts an overhead image into a structured semantic observation of tools, reagents and instrument readouts; a language-model policy selects the next parameterized laboratory action from a constrained API; and coordinated bimanual manipulation executes i",
+    "source": "chemrxiv",
+    "published_date": "2026-04-08",
+    "doi": "10.26434/chemrxiv.15001727/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001727/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "A reaction-aware autonomous platform co-optimizing formulation and execution for the synthesis of zeolitic imidazolate framework",
+    "authors": [
+      "Zuyang Ye",
+      "Young-Jae Ryu",
+      "Shuan Cheng",
+      "Kshithij Mysore Nandishwara",
+      "Kai Xiang Chong",
+      "Aditya Prasad",
+      "Hardik Jain",
+      "Artin Tajdini",
+      "Kevin Jamieson",
+      "Shijing Sun"
+    ],
+    "abstract": "Autonomous experimentation is transforming materials discovery, yet most platforms rely on endof-run measurements, ignoring reaction-progress information and imposing rigid execution protocols. Here, we present Axo, a reaction-aware batch autonomous platform that integrates timeresolved in situ optical monitoring into liquid-handling synthesis. Each run is recorded as a reaction trajectory and converted into two kinetic descriptors: the extent of reaction that adapts measurement interval and batch size to match the reaction timescale, and the nucleation rate constant (\ud835\udc58\n                  \ud835\udc5b\n                  ) that guides the Bayesian optimization of formulation variables. Applied to the solution-phase crystallization of zeolitic imidazolate framework-67 (ZIF-67 , Axo identified a rapid-nuc",
+    "source": "chemrxiv",
+    "published_date": "2026-02-23",
+    "doi": "10.26434/chemrxiv.15000333/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15000333/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Molecular Pinball: A Deterministic Chemistry Environment for Benchmarking Reinforcement Learning with Verifiable Rewards",
+    "authors": [
+      "Niket Sharma"
+    ],
+    "abstract": "The paradigm shift from empirical reward modeling to rule-based verification has redefined modern reinforcement learning research. Reinforcement Learning with Verifiable Rewards (RLVR) has emerged as a cornerstone methodology for developing sophisticated reasoning capabilities in autonomous agents, circumventing the limitations of human-annotated preference data. By leveraging deterministic reward signals\u2014such as the execution correctness of code or the logical validity of a mathematical proof\u2014RLVR enables agents to learn through unconstrained exploration, implicitly incentivizing coherent, step-by-step reasoning. However, the application of RLVR has historically been restricted to purely textual, mathematical, or programmatic domains. The physical sciences, where reasoning requires naviga",
+    "source": "chemrxiv",
+    "published_date": "2026-04-06",
+    "doi": "10.26434/chemrxiv.15001669/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001669/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Q-planner: a harness system for quantum chemistry agents",
+    "authors": [
+      "Ruiqi Zhang",
+      "Wenhao Gao",
+      "Yuki Kurashige"
+    ],
+    "abstract": "LLM-based agents for computational chemistry commonly place the model inside an accumulating execution loop, causing context growth proportional to workflow length, unpredictable token costs, and degraded plan reliability at scale. We present a chemistry computation harness that confines LLM invocations to three semantically bounded stages\u2014compound identification, planning, and reporting\u2014while delegating all tool dispatch, parallel scheduling, arithmetic derivation, and artifact routing to a deterministic LangGraph executor that consumes zero LLM tokens during execution; a library of domain skill modules injects specialist quantum chemistry protocols into the planner context at planning time without enlarging the execution context. Across five representative quantum chemistry workflows, av",
+    "source": "chemrxiv",
+    "published_date": "2026-04-27",
+    "doi": "10.26434/chemrxiv.15002405/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15002405/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "ChemAgents: A Hybrid Agentic Framework Coupling Large Language Models, Molecular Transformers, and Physics-Based Simulations for Accessible Computational Chemistry",
+    "authors": [
+      "Niket Sharma"
+    ],
+    "abstract": "The rapid advancement of artificial intelligence in chemistry has produced a powerful yet fragmented ecosystem of predictive models, creating a significant accessibility gap for domain experts who lack specialized machine learning expertise. To bridge this divide, we introduce ChemAgents, a practical, domain-specific agentic AI framework designed to make molecular property prediction and simulation more intuitive and reproducible. Expanding upon previous conversational agent architectures such as ChemCrow [1] and ChemToolAgent [2], ChemAgents employs a layered system of 13 specialized agents, a custom toolset integrating PubChem, LAMMPS molecular dynamics, and a novel Simulation-AI Coupler, alongside an aggressive duallayer caching architecture (in-memory LRU + persistent SQLite) that redu",
+    "source": "chemrxiv",
+    "published_date": "2026-03-25",
+    "doi": "10.26434/chemrxiv.15001221/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001221/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Predictive Circular Chemistry: A Computational Framework for Engineering End-of-Life Fate into Chemical Formulations from First Principles",
+    "authors": [
+      "Shehan S Makani"
+    ],
+    "abstract": "The chemical formulation industry generates enormous volumes of post-consumer waste whose environmental fate is largely determined at the design stage-yet end-of-life (EoL) fate prediction has historically been absent from formulation optimization workflows. This article introduces Predictive Circular Chemistry (PCC), a computational design paradigm that treats environmental EoL fate as a first-class optimization objective, coequal with performance, cost, and regulatory compliance. We describe the Circular Formulation Engine (CFE), a module within the IntelliForm AI platform that operationalizes PCC via a four-model EoL fate stack (BIOWIN3/6, ECOSAR v2.2, AopWin v1.92, and Koc-GUS leachate mobility), a composite Waste Score metric, and tight integration with the NSGA-III multi-objective ev",
+    "source": "chemrxiv",
+    "published_date": "2026-03-12",
+    "doi": "10.26434/chemrxiv.15000857/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15000857/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Closed-Loop Bayesian Optimization for the Synthesis of Amine-Grafted Resins for Direct Air Capture",
+    "authors": [
+      "Tristan L Spreng",
+      "Paul Schweng",
+      "David Danaci",
+      "Ronny Pini",
+      "Camille Petit"
+    ],
+    "abstract": "Direct air capture (DAC) of CO\n                  2\n                  remains limited by adsorbent performance. Adsorption kinetics are a particularly underexplored lever to improve adsorbents, despite their significance in realistic processes. Today, the profile of 'the' optimal DAC adsorbent displaying high CO\n                  2\n                  uptake and selectivity as well as fast sorption kinetics remains unknown. Here, we present a closed-loop approach combining high-throughput synthesis and characterisation with Bayesian optimization to understand how the material synthesis space impacts adsorbent properties and how it can ultimately be optimized to enhance adsorption-based DAC performance. To carry out this study, we chose amine-functionalized porous adsorbents as our model syste",
+    "source": "chemrxiv",
+    "published_date": "2026-03-05",
+    "doi": "10.26434/chemrxiv.15000640/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15000640/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Mono-material polydisulfides for pressure sensitive adhesive tapes with closed-loop recyclability",
+    "authors": [
+      "Woojung Ham",
+      "Tyler Witt",
+      "Joshua C. Worch"
+    ],
+    "abstract": "Pressure-sensitive adhesives (PSAs) are indispensable components across all sectors of modern society, ranging from packaging to aerospace or construction. However, conventional PSAs are non-recyclable multi-layer materials that contain numerous additives, and they often hamper the recycling of other materials such as plastics or metals when they are applied. Furthermore, most research on sustainable PSA development has focused on the adhesive layer with less attention on the non-adhesive plastic backing layer which typically uses petroleum-derived plastics. Herein, we report a strategy to create \u2018mono-material\u2019 PSA tapes from biogenic polydisulfide copolymers where both the plastic backing and adhesive layer are chemically recyclable. The cationic ring-opening copolymerization of lipoic a",
+    "source": "chemrxiv",
+    "published_date": "2026-04-07",
+    "doi": "10.26434/chemrxiv.15001716/v2",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001716/v2",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "True Closed-Loop Recyclable Hydrogels enabled by Imine Boronic Ester Crosslinking",
+    "authors": [
+      "Jenna A King",
+      "Joshua M Litterio",
+      "Klaus Schmidt-Rohr",
+      "Diego M Alzate-S\u00e1nchez"
+    ],
+    "abstract": "The relationship between molecular structure and macroscopic function is a foundational principle in materials science, in which subtle molecular variations produce pronounced differences in strength, stiffness, and elasticity. In hydrogels, replacing static covalent bonds with dynamic covalent bonds (DCBs) creates newfound capabilities, including selfhealing and recyclability. Herein, how substitutional differences in dual DCB imine boronic ester crosslinkers, together with matrix pH, influence hydrogel properties was investigated. A comparison of orthoand para-imine boronic esters showed the formation of 3-amino-benzoxaborole heterocycles in hydrogels derived from 2-formylphenylboronic acid. Tautomerization to the heterocycle significantly enhanced hydrogel elasticity, despite a lower cr",
+    "source": "chemrxiv",
+    "published_date": "2026-02-27",
+    "doi": "10.26434/chemrxiv.15000471/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15000471/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "materials"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Closed-loop, Human-AI\u2013driven optimization of geological hydrogen production",
+    "authors": [
+      "Abhishek Soni",
+      "Merrill K. Chiang",
+      "Nicky Evans",
+      "Bachu Sravan Kumar",
+      "Jakob Nielsen",
+      "Haihui Lan",
+      "Tonio Buonasissi",
+      "Iwnetim I. Abate"
+    ],
+    "abstract": "Geological hydrogen produced from iron-rich rocks via serpentinization is an emerging low-carbon energy pathway. However, reaction rates remain slow and difficult to control due to the coupling of multiple parameters and the complexity of rock-fluid interactions. Here we report a closed-loop, high-throughput experimental platform that integrates domain knowledge, Bayesian optimization and human-in-the-loop decision making to navigate and control the high-dimensional reaction landscape governing geological hydrogen production. By systematically exploring a nine-dimensional parameter space, the platform converges to high-production conditions in fewer than 90 experiments, achieving hydrogen concentrations up to two orders of magnitude higher than baseline rock\u2013water reactions. Experiments us",
+    "source": "chemrxiv",
+    "published_date": "2026-04-16",
+    "doi": "10.26434/chemrxiv.15002058/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15002058/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Upcycling greenhouse refrigerants into sustainable chemical feedstocks",
+    "authors": [
+      "Asuka Matsunami",
+      "Shoji Furuta",
+      "Takashi Okazoe"
+    ],
+    "abstract": "Rising global temperatures are driving demand for air conditioning, while leakage of high-GWP refrigerants further accelerates warming. Although dehydrofluorination offers a promising route to convert hydrofluorocarbon (HFC) refrigerants into low-GWP alternatives,\u00a0conventional approaches are often limited by catalyst deactivation and degradation of target products caused\u00a0by hydrogen fluoride (HF) as a by-product.\u00a0Here we show a practical continuous-flow process that overcomes these barriers by using alkali metal fluoride catalysts and silica as a sacrificial reagent to irreversibly capture HF as gaseous silicon tetrafluoride (SiF\n                  4\n                  ). This system enables the direct upcycling of legacy refrigerants into sustainable chemical feedstocks, including low-GWP h",
+    "source": "chemrxiv",
+    "published_date": "2026-05-17",
+    "doi": "10.26434/chemrxiv.15002108/v2",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15002108/v2",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Agentic Retrieval for Bio-Based Recovery of Critical and Near-Critical Minerals",
+    "authors": [
+      "Viktoriia Baibakova",
+      "Alexey Serov"
+    ],
+    "abstract": "Biological extraction routes are promising for critical-minerals recovery. We present a Large Language Model (LLM)-assisted autonomous literature mining agent that converts a large local PDF corpus into a schema-validated evidence dataset. The agent maintains persistent state in SQLite, applies staged gating, and invokes Claude LLM only on a small shortlist for figure/table-aware extraction. In one run, the pipeline produced 56 validated records. The dataset is dominated by bioleaching and biosorption, frequently targeting Cu, Ni, Zn, Co, and Fe. In the bioleaching of Cu subset (N=16), an analysis shows a dominant ore/tailing-bacterial Fe/S oxidizers-inorganic acid/ferric pathway plus smaller waste-context pathways with organic-acid signatures. This work demonstrates a cost-efficient pathw",
+    "source": "chemrxiv",
+    "published_date": "2026-02-24",
+    "doi": "10.26434/chemrxiv.15000355/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15000355/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "\u00abJust ask\u00bb: Agentic Pilot to empower chemists",
+    "authors": [
+      "Th\u00e9ophile Gaudin",
+      "Alena Sheveleva",
+      "Marine Ciantar",
+      "Samuel Niblett",
+      "Sandor Farkas",
+      "Joao Ines",
+      "Gregory Price"
+    ],
+    "abstract": "Large Language Model agents capable of using software tools have recently surged in capability and popularity in the data science domain, but remain under-used in the physical sciences. We develop Agentic Pilot, a visual user interface built on LangGraph, to help fill this gap. Agentic Pilot enables the intuitive development of complex agentic workflows, allowing even small LLMs to perform industrially relevant tasks such as executing computational screening calculations or querying electronic lab notebook databases via natural language. In this work, we present Agentic Pilot and provide an industrial perspective on the future of LLM-based agentic workflows in chemistry.",
+    "source": "chemrxiv",
+    "published_date": "2026-03-17",
+    "doi": "10.26434/chemrxiv.15001010/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001010/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "Lessons Learned from the 2025 Agentic AI for Science Hackathon",
+    "authors": [
+      "Jaehyung Lee",
+      "Harichandana Neralla",
+      "Charles Rhys Campbell",
+      "Kent Zhang",
+      "Akshaya Ajith",
+      "Justin Ely",
+      "Hua Jiang",
+      "Zhijian Zhou",
+      "Nikhil Ramlukan",
+      "Xiaolong Li",
+      "Huat Thart Chiang",
+      "Arijit Mahesh Kulkarni",
+      "Amruthesh Thirumalaiswamy",
+      "Sampanna Pahi",
+      "Habibur Rahman",
+      "Raghunandan Pratoori",
+      "Erwei Huang",
+      "Asif Iqbal Bhatti",
+      "Prem Prabhakaran",
+      "Manish Kumar",
+      "Aldo H Romero",
+      "Yu Sun",
+      "Christopher Stiles",
+      "Chinmay Maheshwari",
+      "Peirong Liu",
+      "Laixi Shi",
+      "Kamal Choudhary"
+    ],
+    "abstract": "The rapid emergence of agentic AI presents new opportunities and challenges for accelerating scientific discovery through tool-augmented reasoning, autonomous workflows, and reproducible results. To explore these capabilities in a hands-on, community-driven setting, we hosted the Agentic AI for Science Hackathon 2025, which attracted 352 registered participants. The event was designed to benchmark, test, and extend agentic AI workflows across scientific tasks while remaining modelagnostic and lowering the barrier to entry for participants from diverse backgrounds. Participants engaged with a unified API ecosystem centered on the fully open-access AtomGPT.org API (AGAPI), implementing tool calling, asynchronous agents, and multi-model reasoning to solve problems spanning materials database ",
+    "source": "chemrxiv",
+    "published_date": "2026-03-27",
+    "doi": "10.26434/chemrxiv.15001345/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001345/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "materials"
+    ],
+    "code_url": "https://github.com/atomgptlab/aai4science"
+  },
+  {
+    "title": "Transparent Reporting for Agentic Catalysis Enabled by Artificial Intelligence (TRACE-AI): Community Guidelines and A Publication Checklist",
+    "authors": [
+      "Hongliang Xin",
+      "John R Kitchin",
+      "N\u00faria L\u00f3pez",
+      "Neil M Schweitzer",
+      "Milad Abolhasani",
+      "Nongnuch Artrith",
+      "L\u00edney \u00c1rnad\u00f3ttir",
+      "Kamal Choudhary",
+      "Rui Ding",
+      "Anatoly I Frenkel",
+      "Joseph A Gauthier",
+      "Bryan R Goldsmith",
+      "Amir Barati Farimani",
+      "Lars C Grabow",
+      "G.T. Kasun Kalhara Gunasooriya",
+      "Guoxiang Hu",
+      "Tyler R Josephson",
+      "Heather J Kulik",
+      "Ritesh Kumar",
+      "Teodoro Laino",
+      "Hao Li",
+      "Xiao-Yan Li",
+      "Wanlu Li",
+      "Suljo Linic",
+      "Chong Liu",
+      "Cong Liu",
+      "Fudong Liu",
+      "Mingjie Liu",
+      "Piao Ma",
+      "Andrew J Medford",
+      "Sukrit Mukhopadhyay",
+      "Pengfei Ou",
+      "Christopher Paolucci",
+      "Jiayu Peng",
+      "Cory Phillips",
+      "Marc D Porosoff",
+      "Long Qi",
+      "Andrew S Rosen",
+      "Shijing Sun",
+      "Tibor Szilv\u00e1si",
+      "Johannes Voss",
+      "Siwen Wang",
+      "Xiaonan Wang",
+      "Kirsten Winther",
+      "Qin Wu",
+      "Di Zhang",
+      "Zisheng Zhang"
+    ],
+    "abstract": "Artificial intelligence (AI) is increasingly integrated into catalysis science, enabling agentic workflows in which AI systems perceive inputs, reason under constraints, plan, and autonomously execute\n                  in silico\n                  or physical experiments with minimal human intervention. While these closed-loop capabilities hold promise to accelerate knowledge generation and technological innovation, they inevitably introduce new sources of variability in data lineage, model specification, and agent policies that can undermine FAIRness, rigor, and reproducibility. These risks are particularly pronounced in heterogeneous catalysis, where subtleties in catalyst synthesis and pretreatment, dynamic restructuring under operating conditions, and transport-mediated local environmen",
+    "source": "chemrxiv",
+    "published_date": "2026-03-25",
+    "doi": "10.26434/chemrxiv.15001239/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15001239/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "biology"
+    ],
+    "code_url": null
+  },
+  {
+    "title": "From Tools to Autonomous Agents: Rethinking AI-Driven Business Transformation",
+    "authors": [
+      "Praveen Manimangalam"
+    ],
+    "abstract": "Organizations are accelerating investments in artificial intelligence (AI) to improve efficiency, enhance decision-making, and strengthen customer engagement. While generative AI and large language models (LLMs) have delivered productivity gains by augmenting knowledge work and automating discrete tasks, enterprise transformation remains uneven. Many firms report incremental improvements without sustained strategic advantage. This gap suggests that AI-driven transformation depends less on model sophistication than on how AI capabilities are embedded, coordinated, and governed within organizational systems. This paper advances a capability-centric perspective on AI in business, arguing that the next phase of transformation is defined by the emergence of agentic AI systems. Unlike traditiona",
+    "source": "semantic_scholar",
+    "published_date": "2026-05-18",
+    "doi": "10.1609/aaaiss.v8i1.42544",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.1609/aaaiss.v8i1.42544",
+    "venue": "Proceedings of the AAAI Symposium Series",
+    "citation_count": 0,
+    "domains": [
+      "biology"
+    ],
+    "code_url": null
   }
 ]
