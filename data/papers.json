@@ -661,7 +661,7 @@
       "materials",
       "biology"
     ],
-    "code_url": null
+    "code_url": "https://github.com/osaurus-ai/osaurus"
   },
   {
     "title": "From large language models to AI agents in energy materials research: enabling discovery, design, and automation",
@@ -1182,7 +1182,7 @@
       "materials",
       "biology"
     ],
-    "code_url": null
+    "code_url": "https://github.com/Aukexecutivedepartment5152/PaperOrchestra"
   },
   {
     "title": "AI CFD Scientist: Toward Open-Ended Computational Fluid Dynamics Discovery with Physics-Aware AI Agents",
@@ -1990,7 +1990,7 @@
       "materials",
       "biology"
     ],
-    "code_url": null
+    "code_url": "https://github.com/thom899g/organic-integration-catalyst--oic-"
   },
   {
     "title": "Multi-Agent Orchestration for High-Throughput Materials Screening on a Leadership-Class System",
@@ -2104,7 +2104,7 @@
       "materials",
       "biology"
     ],
-    "code_url": null
+    "code_url": "https://github.com/runzhi-wang/3T-RAG-RRA-Screener"
   },
   {
     "title": "Probabilistic phase labeling and lattice refinement for autonomous materials research",
@@ -2153,7 +2153,7 @@
       "materials",
       "biology"
     ],
-    "code_url": null
+    "code_url": "https://github.com/yenanjing/awesome-ai-for-science"
   },
   {
     "title": "From Data to Theory: Autonomous Large Language Model Agents for Materials Science",
@@ -3859,7 +3859,7 @@
       "chemistry",
       "materials"
     ],
-    "code_url": null
+    "code_url": "https://github.com/Tencent/WeKnora"
   },
   {
     "title": "ARES OS 2.0: An Orchestration Software Suite for Autonomous Experimentation Systems and Self-Driving Labs",
@@ -10522,7 +10522,7 @@
       "chemistry",
       "materials"
     ],
-    "code_url": null
+    "code_url": "https://github.com/argonne-lcf/ChemGraph"
   },
   {
     "title": "Bridging electron microscopy and materials analysis with an autonomous agentic platform",
