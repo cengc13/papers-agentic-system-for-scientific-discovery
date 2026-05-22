@@ -5,6 +5,8 @@ A curated, auto-updated list of papers on AI agents applied to **chemistry** and
 Papers are ranked by citation velocity (citations/year), venue prestige, and recency.  
 Updated weekly via GitHub Actions · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)
 
+> **Note:** Classification is automated and can occasionally miscategorize papers — for example, review papers may appear under *Articles*. Please open an issue if you spot a misclassified entry.
+
 <!-- PAPERS_START -->
 
 *Auto-updated 2026-05-22 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
