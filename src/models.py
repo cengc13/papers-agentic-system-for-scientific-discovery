@@ -21,6 +21,7 @@ class Paper:
     venue: Optional[str] = None
     citation_count: Optional[int] = None
     domains: list[str] = field(default_factory=list)
+    code_url: Optional[str] = None
 
     @property
     def uid(self) -> str:
