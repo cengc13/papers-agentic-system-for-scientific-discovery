@@ -40,7 +40,8 @@ def _infer_domains(title: str, abstract: str) -> list[str]:
 class PubmedFetcher:
     def __init__(self, config: dict):
         self.config = config
-        self.email = config.get('email', 'user@example.com')
+        import os
+        self.email = config.get('email') or os.environ.get('PUBMED_EMAIL', 'user@example.com')
         self.api_key = config.get('api_key', '')
         self.max_results = config.get('max_results', 100)
 

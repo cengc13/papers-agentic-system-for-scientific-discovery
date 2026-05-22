@@ -1,13 +1,13 @@
 # Agentic AI for Scientific Discovery
 
-A curated, auto-updated list of papers on AI agents applied to **chemistry**, **materials science**, and **biology**.
+A curated, auto-updated list of papers on AI agents applied to **chemistry** and **materials science**.
 
 Papers are ranked by citation velocity (citations/year), venue prestige, and recency.  
-Updated weekly via GitHub Actions · Sources: arXiv · Semantic Scholar · PubMed · bioRxiv · chemRxiv
+Updated weekly via GitHub Actions · Sources: arXiv · Semantic Scholar · PubMed · OpenReview (ICLR/NeurIPS/ICML)
 
 <!-- PAPERS_START -->
 
-*Auto-updated 2026-05-22 · Sources: arXiv · Semantic Scholar · PubMed · bioRxiv · chemRxiv · OpenReview*
+*Auto-updated 2026-05-22 · Sources: arXiv · Semantic Scholar · PubMed · OpenReview (ICLR/NeurIPS/ICML)*
 
 ### Top Papers (citation-ranked)
 
@@ -41,8 +41,8 @@ Updated weekly via GitHub Actions · Sources: arXiv · Semantic Scholar · PubMe
 | Title | Year | Venue | Domain | Citations |
 | --- | --- | --- | --- | ---: |
 | [Recent Progress in Ferroptosis Inducers for Cancer Therapy](https://doi.org/10.1002/adma.201904197) | 2019 | Adv. Mater. | materials science | 1.3k |
-| [Application of Metal Coordination Chemistry to Explore and Manipulate Cell Biolo…](https://europepmc.org/articles/pmc2761982?pdf=render) | 2009 | Chem. Rev. | chemistry | 851 |
 | [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | materials science | 421 |
+| [Materials learning from life: concepts for active, adaptive and autonomous molec…](https://doi.org/10.1039/c6cs00738d) | 2017 | Chemical Society R… | materials science | 252 |
 | [QUASAR: A Universal Autonomous System for Atomistic Simulation and a Benchmark o…](https://arxiv.org/abs/2602.00185) | 2026 | JCIM | materials science | 5 |
 | [In Situ Analytical Chemistry Laboratory for the Exobiology Extant Life Surveyor.](https://pubmed.ncbi.nlm.nih.gov/42007066/) | 2026 | ACS Meas. Sci. Au | chemistry | 37 |
 | [Materials Informatics: Emergence to Autonomous Discovery in the Age of AI.](https://arxiv.org/abs/2601.00742) | 2026 | Adv. Mater. | materials science | 8 |

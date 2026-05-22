@@ -14,12 +14,16 @@ sources:
   pubmed:
     enabled: true
     max_results: 100
-    # Add your email — required by NCBI for rate-limit compliance
+    # Required by NCBI for rate-limit compliance.
+    # In GitHub Actions, set as repo secret PUBMED_EMAIL (or env var)
     email: "user@example.com"
-    # Optional key: https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/
     api_key: ""
 
   biorxiv:
+    enabled: false   # chemRxiv API returns 403; disable until fixed
+
+  openreview:
     enabled: true
-    max_results: 200
-    include_chemrxiv: true
+    max_per_venue: 4000   # enough to cover NeurIPS/ICML (~3000 accepted papers per year)
+    delay: 0.5            # seconds between paginated requests
+    venue_delay: 3.0      # seconds between conference venues
