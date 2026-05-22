@@ -126,7 +126,7 @@ def _fmt_citations(n: int | None) -> str:
 
 
 def _code_cell(paper: Paper) -> str:
-    return f'[Code]({paper.code_url})' if paper.code_url else '—'
+    return f'[Code]({paper.code_url})' if paper.code_url else '-'
 
 
 def _pub_year(paper: Paper) -> int:
@@ -134,71 +134,59 @@ def _pub_year(paper: Paper) -> int:
 
 
 def _top_table_articles(papers: list[tuple]) -> list[str]:
-    """Title | Year | Venue | Domain | Code (Code column only when papers have code)."""
+    """Title | Year | Venue | Code."""
     if not papers:
         return []
-    has_code = any(p.code_url for p, _ in papers)
-    cols = ['Title', 'Year', 'Venue', 'Domain']
-    if has_code:
-        cols.append('Code')
+    cols = ['Title', 'Year', 'Venue', 'Code']
     sep = ['---'] * len(cols)
     lines = [_md_row(*cols), _md_row(*sep)]
     for paper, _ in papers:
         year = str(paper.published_date.year) if paper.published_date else '?'
-        cells = [_title_link(paper), year, _short_venue(paper.venue or ''), _primary_domain(paper)]
-        if has_code:
-            cells.append(_code_cell(paper))
-        lines.append(_md_row(*cells))
+        lines.append(_md_row(_title_link(paper), year, _short_venue(paper.venue or ''), _code_cell(paper)))
     return lines
 
 
 def _top_table_reviews(papers: list[tuple]) -> list[str]:
-    """Title | Year | Venue | Domain | Citations."""
+    """Title | Year | Venue | Citations."""
     if not papers:
         return []
-    cols = ['Title', 'Year', 'Venue', 'Domain', 'Citations']
-    sep = ['---', '---', '---', '---', '---:']
+    cols = ['Title', 'Year', 'Venue', 'Citations']
+    sep = ['---', '---', '---', '---:']
     lines = [_md_row(*cols), _md_row(*sep)]
     for paper, _ in papers:
         year = str(paper.published_date.year) if paper.published_date else '?'
         lines.append(_md_row(
             _title_link(paper), year, _short_venue(paper.venue or ''),
-            _primary_domain(paper), _fmt_citations(paper.citation_count),
+            _fmt_citations(paper.citation_count),
         ))
     return lines
 
 
 def _recent_table_articles(papers: list[tuple]) -> list[str]:
-    """Title | Date | Source | Domain | Code (Code column only when papers have code)."""
+    """Title | Date | Source | Code."""
     if not papers:
         return []
-    has_code = any(p.code_url for p, _ in papers)
-    cols = ['Title', 'Date', 'Source', 'Domain']
-    if has_code:
-        cols.append('Code')
+    cols = ['Title', 'Date', 'Source', 'Code']
     sep = ['---'] * len(cols)
     lines = [_md_row(*cols), _md_row(*sep)]
     for paper, _ in papers:
         d = str(paper.published_date) if paper.published_date else '?'
-        cells = [_title_link(paper), d, paper.source, _primary_domain(paper)]
-        if has_code:
-            cells.append(_code_cell(paper))
-        lines.append(_md_row(*cells))
+        lines.append(_md_row(_title_link(paper), d, paper.source, _code_cell(paper)))
     return lines
 
 
 def _recent_table_reviews(papers: list[tuple]) -> list[str]:
-    """Title | Date | Source | Domain | Citations."""
+    """Title | Date | Source | Citations."""
     if not papers:
         return []
-    cols = ['Title', 'Date', 'Source', 'Domain', 'Citations']
-    sep = ['---', '---', '---', '---', '---:']
+    cols = ['Title', 'Date', 'Source', 'Citations']
+    sep = ['---', '---', '---', '---:']
     lines = [_md_row(*cols), _md_row(*sep)]
     for paper, _ in papers:
         d = str(paper.published_date) if paper.published_date else '?'
         lines.append(_md_row(
             _title_link(paper), d, paper.source,
-            _primary_domain(paper), _fmt_citations(paper.citation_count),
+            _fmt_citations(paper.citation_count),
         ))
     return lines
 
