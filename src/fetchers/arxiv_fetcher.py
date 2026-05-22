@@ -1,7 +1,10 @@
 from __future__ import annotations
 import logging
+import re
 from datetime import date
 from ..models import Paper
+
+_GH_PAT = re.compile(r'https?://github\.com/[\w\-][^/\s\)>\]]+/[\w\-][^\s\)>\]]*')
 
 logger = logging.getLogger(__name__)
 
@@ -75,6 +78,8 @@ class ArxivFetcher:
                         continue
                     seen_ids.add(arxiv_id)
 
+                    comment = (result.comment or '').replace('\n', ' ')
+                    gh_match = _GH_PAT.search(comment) or _GH_PAT.search(result.summary)
                     paper = Paper(
                         title=result.title.replace('\n', ' '),
                         authors=[a.name for a in result.authors],
@@ -86,6 +91,7 @@ class ArxivFetcher:
                         url=result.entry_id,
                         venue='arXiv',
                         domains=_infer_domains(result.title, result.summary),
+                        code_url=gh_match.group(0).rstrip('.,;:)') if gh_match else None,
                     )
                     papers.append(paper)
             except Exception as e:
