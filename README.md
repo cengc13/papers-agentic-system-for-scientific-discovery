@@ -7,7 +7,7 @@ Updated weekly via GitHub Actions · Sources: arXiv · Semantic Scholar · chemR
 
 <!-- PAPERS_START -->
 
-*Auto-updated 2026-05-22 · Sources: arXiv · Semantic Scholar · PubMed · OpenReview (ICLR/NeurIPS/ICML)*
+*Auto-updated 2026-05-22 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
 
 ### Top Papers (citation-ranked)
 
