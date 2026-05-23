@@ -4093,7 +4093,7 @@
       "materials",
       "biology"
     ],
-    "code_url": "https://github.com/HKUDS/nanobot",
+    "code_url": null,
     "paper_type": "article",
     "llm_on_topic": true,
     "venue_llm": "arXiv"
@@ -4246,7 +4246,7 @@
       "chemistry",
       "materials"
     ],
-    "code_url": "https://github.com/Tencent/WeKnora",
+    "code_url": null,
     "paper_type": "article",
     "llm_on_topic": true,
     "venue_llm": null
@@ -5364,7 +5364,7 @@
       "materials",
       "biology"
     ],
-    "code_url": "https://github.com/CEED/Laghos",
+    "code_url": null,
     "paper_type": "article",
     "llm_on_topic": true,
     "venue_llm": null

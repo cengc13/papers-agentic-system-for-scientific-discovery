@@ -68,13 +68,13 @@ Classification (article vs. review), on-topic filtering, and venue normalisation
 | [Logos: An evolvable reasoning engine for rational molecular design](https://arxiv.org/abs/2603.09268) | 2026-03-10 | semantic_scholar | - |
 | [Human-Aware Robot Behaviour in Self-Driving Labs](https://arxiv.org/abs/2603.08420) | 2026-03-09 | semantic_scholar | - |
 | [MatClaw: An Autonomous Code-First LLM Agent for End-to-End Materials Exploration](http://arxiv.org/abs/2604.02688v2) | 2026-04-03 | arxiv | [Code](https://github.com/cz2014/MatClaw) |
-| [OpenQlaw: An Agentic AI Assistant for Analysis of 2D Quantum Materials](http://arxiv.org/abs/2603.17043v1) | 2026-03-17 | arxiv | [Code](https://github.com/HKUDS/nanobot) |
-| [Agentic LLM Reasoning in a Self-Driving Laboratory for Air-Sensitive Lithium Hal…](http://arxiv.org/abs/2604.11957v1) | 2026-04-13 | arxiv | [Code](https://github.com/Tencent/WeKnora) |
+| [OpenQlaw: An Agentic AI Assistant for Analysis of 2D Quantum Materials](http://arxiv.org/abs/2603.17043v1) | 2026-03-17 | arxiv | - |
+| [Agentic LLM Reasoning in a Self-Driving Laboratory for Air-Sensitive Lithium Hal…](http://arxiv.org/abs/2604.11957v1) | 2026-04-13 | arxiv | - |
 | [ARES OS 2.0: An Orchestration Software Suite for Autonomous Experimentation Syst…](http://arxiv.org/abs/2604.03440v1) | 2026-04-03 | arxiv | [Code](https://github.com/AFRL-ARES/ARES/releases) |
 | [Exploring self-driving labs for optoelectronic materials](http://arxiv.org/abs/2603.21704v1) | 2026-03-23 | arxiv | - |
 | [From Papers to Property Tables: A Priority-Based LLM Workflow for Materials Data…](http://arxiv.org/abs/2604.07584v1) | 2026-04-08 | arxiv | - |
 | [An Agentic Active-Learning Framework for Simulation-Driven Optimization of Energ…](https://doi.org/10.1109/ICTMIM68190.2026.11506731) | 2026-04-08 | semantic_scholar | - |
-| [Multi-Agent Collaboration for Automated Design Exploration on High Performance C…](https://arxiv.org/abs/2603.11515) | 2026-03-12 | semantic_scholar | [Code](https://github.com/CEED/Laghos) |
+| [Multi-Agent Collaboration for Automated Design Exploration on High Performance C…](https://arxiv.org/abs/2603.11515) | 2026-03-12 | semantic_scholar | - |
 
 #### Reviews & Surveys
 
