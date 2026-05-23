@@ -4093,7 +4093,7 @@
       "materials",
       "biology"
     ],
-    "code_url": null,
+    "code_url": "https://github.com/HKUDS/nanobot",
     "paper_type": "article",
     "llm_on_topic": true,
     "venue_llm": "arXiv"
@@ -5364,7 +5364,7 @@
       "materials",
       "biology"
     ],
-    "code_url": null,
+    "code_url": "https://github.com/CEED/Laghos",
     "paper_type": "article",
     "llm_on_topic": true,
     "venue_llm": null
@@ -22349,7 +22349,7 @@
     "biorxiv_id": null,
     "url": "https://www.nature.com/articles/s41467-021-21091-w.pdf",
     "venue": "Nature Communications",
-    "citation_count": 30,
+    "citation_count": 31,
     "domains": [
       "chemistry",
       "materials",
@@ -22841,7 +22841,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1002/adma.201904197",
     "venue": "Advances in Materials",
-    "citation_count": 1275,
+    "citation_count": 1276,
     "domains": [
       "chemistry",
       "materials",
