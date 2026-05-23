@@ -2,7 +2,7 @@
 
 A curated, auto-updated list of papers on AI agents applied to **chemistry** and **materials science**.
 
-Papers are ranked by citation velocity (citations/year), venue prestige, and recency.  
+Top papers are filtered to cited works (≥ 5 citations) and ordered by recency; reviews are selected by citation count and recency.  
 Updated weekly via GitHub Actions · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)
 
 Classification (article vs. review), on-topic filtering, and venue normalisation are handled by **gpt-4o-mini**: keyword pre-filtering runs first, then the LLM gates quality and corrects false positives. Please open an issue if you spot a misclassified entry.

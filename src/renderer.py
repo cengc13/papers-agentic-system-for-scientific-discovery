@@ -270,7 +270,7 @@ def render_markdown(papers: list[Paper], recent_days: int = 90, top_n: int = 20)
         '',
     ]
 
-    lines += ['### Top Papers (citation-ranked)', '']
+    lines += ['### Top Papers (cited, ordered by recency)', '']
     if sem_articles:
         lines += ['#### Articles', '']
         lines += _top_table_articles(sem_articles)
