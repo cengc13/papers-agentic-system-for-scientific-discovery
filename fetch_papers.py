@@ -146,12 +146,16 @@ def _title_keywords(title: str) -> list[str]:
 
 
 def _enrich_code_urls_github(papers: list, github_token: str | None = None,
-                              delay: float = 6.5) -> int:
+                              delay: float = 6.5,
+                              llm_api_key: str | None = None,
+                              llm_model: str = 'gpt-4o-mini') -> int:
     """Search GitHub for repos matching tool name + paper keywords.
 
     Only run on papers already selected for display (~50 papers).
     Uses unauthenticated search (10 req/min) by default; pass github_token
     for 30 req/min. Delay default ~6.5s keeps well under unauthenticated limit.
+    When llm_api_key is provided, candidate matches are verified by LLM before
+    being accepted, eliminating false positives from keyword overlap.
     """
     import time
     import random
@@ -205,6 +209,15 @@ def _enrich_code_urls_github(papers: list, github_token: str | None = None,
                 best_score, best_repo = score, repo
         # Accept: exact name + any keyword (score≥5), or strong keyword overlap (score≥4)
         if best_repo and best_score >= 4:
+            if llm_api_key:
+                from src.llm_enricher import verify_code_url
+                if not verify_code_url(llm_api_key, llm_model,
+                                       p.title, p.abstract or '', best_repo):
+                    logger.info(f"  LLM rejected match (score={best_score}): "
+                                f"{p.title[:45]} → {best_repo['html_url']}")
+                    jitter = delay * (1 + random.uniform(-0.15, 0.15))
+                    time.sleep(jitter)
+                    continue
             p.code_url = best_repo['html_url']
             count += 1
             logger.info(f"  GitHub match (score={best_score}): {p.title[:50]} → {p.code_url}")
@@ -472,9 +485,16 @@ def main(days, top_n, config, output, update_readme, fetch_seminal, no_fetch, en
         if display_no_code:
             import os
             gh_token = os.environ.get('GITHUB_TOKEN')
+            llm_cfg = cfg.get('llm', {})
+            openai_key = os.environ.get('OPENAI_API_KEY') or llm_cfg.get('openai_api_key', '')
+            from src.llm_enricher import DEFAULT_MODEL
+            llm_model = llm_cfg.get('model', DEFAULT_MODEL)
             click.echo(f'[GitHub search] searching {len(display_no_code)} remaining papers'
-                       + (' (authenticated)' if gh_token else ' (unauthenticated, ~6s/paper)'))
-            n2 = _enrich_code_urls_github(display_no_code, github_token=gh_token)
+                       + (' (authenticated)' if gh_token else ' (unauthenticated, ~6s/paper)')
+                       + (' + LLM verify' if openai_key else ''))
+            n2 = _enrich_code_urls_github(display_no_code, github_token=gh_token,
+                                           llm_api_key=openai_key or None,
+                                           llm_model=llm_model)
             click.echo(f'[GitHub search] found {n2} new code links')
 
         save_cache(cached)

@@ -126,3 +126,41 @@ def enrich_papers_llm(papers: list, api_key: str, model: str = DEFAULT_MODEL,
     logger.info("LLM enrichment: %d input tokens, %d output tokens, est. $%.4f",
                 total_in, total_out, cost)
     return classified
+
+
+_VERIFY_PROMPT = """\
+Does the GitHub repository below contain the code released for this paper?
+Answer with a single word — "yes" or "no".
+
+Paper: {title}
+Abstract: {abstract}
+
+Repository: {full_name}
+Description: {description}
+Topics: {topics}"""
+
+
+def verify_code_url(api_key: str, model: str,
+                    paper_title: str, paper_abstract: str,
+                    repo: dict) -> bool:
+    """Return True if the LLM believes repo is the code release for the paper."""
+    from openai import OpenAI
+    client = OpenAI(api_key=api_key)
+    prompt = _VERIFY_PROMPT.format(
+        title=paper_title,
+        abstract=(paper_abstract or '')[:250],
+        full_name=repo.get('full_name', ''),
+        description=repo.get('description') or 'none',
+        topics=', '.join(repo.get('topics') or []) or 'none',
+    )
+    try:
+        resp = client.chat.completions.create(
+            model=model,
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0,
+            max_tokens=5,
+        )
+        return resp.choices[0].message.content.strip().lower().startswith('yes')
+    except Exception as e:
+        logger.warning("Code URL verification failed: %s", e)
+        return False

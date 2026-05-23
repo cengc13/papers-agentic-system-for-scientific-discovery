@@ -56,7 +56,7 @@ Classification (article vs. review), on-topic filtering, and venue normalisation
 | Title | Date | Source | Code |
 | --- | --- | --- | --- |
 | [AIMBio-Mat: An AI-Native FAIR Platform for Closed-Loop Materials Discovery and B…](http://arxiv.org/abs/2605.21083v1) | 2026-05-20 | arxiv | - |
-| [Harnessing Autonomous AI Agents for the Next Generation of Scientific Discovery](https://doi.org/10.1002/smm2.70068) | 2026-03-19 | semantic_scholar | [Code](https://github.com/osaurus-ai/osaurus) |
+| [Harnessing Autonomous AI Agents for the Next Generation of Scientific Discovery](https://doi.org/10.1002/smm2.70068) | 2026-03-19 | semantic_scholar | - |
 | [Digital materials ecosystem: from databases to AI agents for autonomous discover…](https://doi.org/10.1039/d5sc09229a) | 2026-02-23 | semantic_scholar | - |
 | [Catalyst-Agent: Autonomous heterogeneous catalyst screening and optimization wit…](https://arxiv.org/abs/2603.01311) | 2026-03-01 | semantic_scholar | - |
 | [Toward self-driving laboratory 2.0 for chemistry and materials discovery.](https://doi.org/10.1039/d5mh01984b) | 2026-03-10 | semantic_scholar | - |

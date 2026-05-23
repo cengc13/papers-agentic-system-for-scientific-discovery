@@ -721,7 +721,7 @@
       "materials",
       "biology"
     ],
-    "code_url": "https://github.com/osaurus-ai/osaurus",
+    "code_url": null,
     "paper_type": "article",
     "llm_on_topic": true,
     "venue_llm": "SmartMat"
