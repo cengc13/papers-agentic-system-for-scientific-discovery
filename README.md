@@ -9,7 +9,7 @@ Classification (article vs. review), on-topic filtering, and venue normalisation
 
 <!-- PAPERS_START -->
 
-*Auto-updated 2026-05-25 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
+*Auto-updated 2026-05-28 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
 
 ### Top Papers (cited, ordered by recency)
 
@@ -26,6 +26,7 @@ Classification (article vs. review), on-topic filtering, and venue normalisation
 | [Rapid and automated alloy design with graph neural network-powered large languag…](https://doi.org/10.1557/s43577-025-00953-4) | 2025 | MRS bulletin | - |
 | [Towards Agentic AI for Science Hypothesis Generation, Comprehension, Quantificat…](https://doi.org/10.1145/3701716.3718485) | 2025 | The Web Conference | [Code](https://github.com/yenanjing/awesome-ai-for-science) |
 | [Generative Design of Functional Metal Complexes Utilizing the Internal Knowledge…](https://doi.org/10.1021/jacs.5c02097) | 2025 | JACS | - |
+| [Self-Driving Laboratory for Accelerated On-Surface Synthesis under Ultrahigh Vac…](https://doi.org/10.1021/acs.nanolett.5c02445) | 2025 | Nano Letters | - |
 | [A Self-Driving Lab for Nano- and Advanced Materials Synthesis](https://doi.org/10.1021/acsnano.4c17504) | 2025 | ACS Nano | - |
 | [Flow-driven data intensification to accelerate autonomous inorganic materials di…](https://doi.org/10.1038/s44286-025-00249-z) | 2025 | Nat. Chem. Eng. | - |
 | [Science acceleration and accessibility with self-driving labs](https://doi.org/10.1038/s41467-025-59231-1) | 2025 | Nat. Commun. | - |
@@ -36,18 +37,17 @@ Classification (article vs. review), on-topic filtering, and venue normalisation
 | [Accelerating aqueous electrolyte design with automated full-cell battery experim…](https://doi.org/10.1016/j.xcrp.2025.102548) | 2025 | Cell Rep. Phys. Sci. | - |
 | [Large language models to accelerate organic chemistry synthesis](https://arxiv.org/abs/2504.18340) | 2025 | Nat. Mach. Intell. | - |
 | [SciToolAgent: a knowledge-graph-driven scientific agent for multitool integratio…](https://arxiv.org/abs/2507.20280) | 2025 | Nat. Comput. Sci. | [Code](https://github.com/hicai-zju/scitoolagent) |
-| [TopoMAS: Large Language Model Driven Topological Materials Multi‐Agent System](https://arxiv.org/abs/2507.04053) | 2025 | Materials Genome Engin… | - |
 
 #### Reviews & Surveys
 
 | Title | Year | Venue | Citations |
 | --- | --- | --- | ---: |
-| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 426 |
+| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 435 |
 | [Materials learning from life: concepts for active, adaptive and autonomous molec…](https://doi.org/10.1039/c6cs00738d) | 2017 | Chemical Society Revie… | 255 |
 | [Synthetic organic chemistry driven by artificial intelligence](https://www.nature.com/articles/s41570-019-0124-0.pdf) | 2019 | Nat. Rev. Chem. | 231 |
 | [Materials Informatics: Emergence to Autonomous Discovery in the Age of AI.](https://arxiv.org/abs/2601.00742) | 2026 | Adv. Mater. | 8 |
-| [Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Futur…](https://arxiv.org/abs/2503.08979) | 2025 | arXiv | 82 |
-| [From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discov…](https://arxiv.org/abs/2508.14111) | 2025 | arXiv | 56 |
+| [Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Futur…](https://arxiv.org/abs/2503.08979) | 2025 | arXiv | 85 |
+| [From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discov…](https://arxiv.org/abs/2508.14111) | 2025 | arXiv | 59 |
 
 ### Recent Highlights (last 90 days)
 
@@ -80,7 +80,7 @@ Classification (article vs. review), on-topic filtering, and venue normalisation
 
 | Title | Date | Source | Citations |
 | --- | --- | --- | ---: |
-| [Bridging data and discovery: a survey on knowledge graphs in AI for science](https://doi.org/10.1093/nsr/nwag140) | 2026-03-05 | semantic_scholar | 1 |
+| [Bridging data and discovery: a survey on knowledge graphs in AI for science](https://doi.org/10.1093/nsr/nwag140) | 2026-03-05 | semantic_scholar | 2 |
 | [Accelerating Discovery of Organic Molecular Crystals via Materials Informatics a…](https://doi.org/10.1002/aidi.70124) | 2026-04-27 | semantic_scholar | 0 |
 | [AI-Driven Discovery of New Materials: Breaking Data Bottlenecks and Transforming…](https://doi.org/10.1360/csb-2026-0182) | 2026-03-01 | semantic_scholar | 0 |
 | [Machine Learning‐Driven R&D of Perovskites and Spinels: From Traditional Models …](https://doi.org/10.1002/smtd.202502228) | 2026-03-04 | semantic_scholar | 0 |
