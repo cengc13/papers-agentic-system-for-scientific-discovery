@@ -9,7 +9,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 <!-- PAPERS_START -->
 
-*Auto-updated 2026-07-06 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
+*Auto-updated 2026-07-13 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
 
 ### Top Papers (by relevance)
 
@@ -17,6 +17,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 | Title | Date | Venue | Code |
 | --- | --- | --- | --- |
+| [Compressing the Validation Bottleneck: An Agentic Self-Driving Lab for Scientifi…](http://arxiv.org/abs/2607.04508v1) | 2026-07-05 | arXiv | [Code](https://github.com/karpathy/autoresearch) |
 | [End-to-end discovery of MOFs for ambient CH₄ adsorption](https://doi.org/10.26434/chemrxiv.15003500/v2) | 2026-07-02 | chemRxiv | - |
 | [Closed-Loop LLM-Guided Molecular Dynamics Screening of Thermal Transport in Co-C…](https://doi.org/10.26434/chemrxiv.15005077/v1) | 2026-06-23 | chemRxiv | - |
 | [An autonomous lab for data-driven homogeneous catalysis.](https://www.nature.com/articles/s41467-026-74425-x_reference.pdf) | 2026-06-20 | Nat. Commun. | - |
@@ -24,6 +25,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 | [Synthesis and modelling of chemically cross-linked hydrogels with a semi-self-dr…](https://doi.org/10.26434/chemrxiv.15004569/v1) | 2026-06-10 | chemRxiv | - |
 | [Autonomous computational catalysis through an agentic research system](https://doi.org/10.26434/chemrxiv.15001654/v2) | 2026-06-08 | chemRxiv | [Code](https://github.com/q734738781/CatMaster) |
 | [Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent dig…](https://arxiv.org/abs/2606.05050) | 2026-06-03 | arXiv | [Code](https://github.com/AI4QC/catdt) |
+| [Additive manufacturing enabled autonomous laboratory for materials discovery and…](https://link.springer.com/content/pdf/10.1557/s43577-026-01078-y.pdf) | 2026-06-01 | MRS bulletin | - |
 | [Iterative LLM-driven de novo drug design with multi-method consensus scoring: a …](https://doi.org/10.26434/chemrxiv.15003690/v1) | 2026-05-21 | chemRxiv | - |
 | [End-to-end discovery of MOFs for ambient CH4 adsorption](https://doi.org/10.26434/chemrxiv.15003500/v1) | 2026-05-18 | chemRxiv | - |
 | [Qumus: Realization of An Embodied AI Quantum Material Experimentalist](https://arxiv.org/abs/2605.18407) | 2026-05-18 | arXiv | - |
@@ -79,11 +81,11 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 | Title | Year | Venue | Citations |
 | --- | --- | --- | ---: |
-| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 491 |
-| [Next-Generation Experimentation with Self-Driving Laboratories](https://doi.org/10.1016/J.TRECHM.2019.02.007) | 2019 | Trends in Chemistry | 305 |
-| [A review of large language models and autonomous agents in chemistry](https://arxiv.org/abs/2407.01603) | 2024 | Chem. Sci. | 221 |
-| [Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Futur…](https://arxiv.org/abs/2503.08979) | 2025 | arXiv | 93 |
-| [From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discov…](https://arxiv.org/abs/2508.14111) | 2025 | arXiv | 64 |
-| [Autonomous ‘self-driving’ laboratories: a review of technology and policy implic…](https://doi.org/10.1098/rsos.250646) | 2025 | Royal Society Open Sci… | 44 |
+| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 500 |
+| [Next-Generation Experimentation with Self-Driving Laboratories](https://doi.org/10.1016/J.TRECHM.2019.02.007) | 2019 | Trends in Chemistry | 307 |
+| [A review of large language models and autonomous agents in chemistry](https://arxiv.org/abs/2407.01603) | 2024 | Chem. Sci. | 224 |
+| [Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Futur…](https://arxiv.org/abs/2503.08979) | 2025 | arXiv | 94 |
+| [From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discov…](https://arxiv.org/abs/2508.14111) | 2025 | arXiv | 68 |
+| [Autonomous ‘self-driving’ laboratories: a review of technology and policy implic…](https://doi.org/10.1098/rsos.250646) | 2025 | Royal Society Open Sci… | 47 |
 
 <!-- PAPERS_END -->
