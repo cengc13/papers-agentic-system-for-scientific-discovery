@@ -9,7 +9,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 <!-- PAPERS_START -->
 
-*Auto-updated 2026-07-20 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
+*Auto-updated 2026-07-27 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
 
 ### Top Papers (by relevance)
 
@@ -53,6 +53,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 | [Self-driving laboratory for accelerated discovery of thin-film materials](https://advances.sciencemag.org/content/advances/6/20/eaaz8867.full.pdf) | 2019-06-12 | Sci. Adv. | - |
 | [Autonomy in materials research: a case study in carbon nanotube growth](https://www.nature.com/articles/npjcompumats201631.pdf) | 2016-10-21 | — | - |
 | [Real-time Multi-instrument Autonomous Discovery of Novel Phase-change Memory Mat…](https://arxiv.org/abs/2605.18033) | 2026-05-18 | arXiv | - |
+| [AIMS: An uncertainty-aware AI experimentalist for quantum matter](https://arxiv.org/abs/2607.16544) | 2026-07-17 | arXiv | - |
 | [A Modular and Affordable Self-Driving Laboratory for Vision-Guided Optimization …](https://doi.org/10.1021/acsami.6c08121) | 2026-06-30 | ACS Applied Materials … | - |
 | [Latent mechanism mapping in self-driving molecular electrocatalysis](https://doi.org/10.26434/chemrxiv.15005417/v1) | 2026-06-29 | chemRxiv | - |
 | [An LLM System for Autonomous Variational Quantum Circuit Design](https://arxiv.org/abs/2606.13380) | 2026-06-11 | arXiv | - |
@@ -81,11 +82,11 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 | Title | Year | Venue | Citations |
 | --- | --- | --- | ---: |
-| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 512 |
-| [Next-Generation Experimentation with Self-Driving Laboratories](https://doi.org/10.1016/J.TRECHM.2019.02.007) | 2019 | Trends in Chemistry | 307 |
-| [A review of large language models and autonomous agents in chemistry](https://arxiv.org/abs/2407.01603) | 2024 | Chem. Sci. | 226 |
+| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 523 |
+| [Next-Generation Experimentation with Self-Driving Laboratories](https://doi.org/10.1016/J.TRECHM.2019.02.007) | 2019 | Trends in Chemistry | 313 |
+| [A review of large language models and autonomous agents in chemistry](https://arxiv.org/abs/2407.01603) | 2024 | Chem. Sci. | 234 |
 | [Bridging data and discovery: a survey on knowledge graphs in AI for science](https://doi.org/10.1093/nsr/nwag140) | 2026 | National Science Revie… | 5 |
-| [Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Futur…](https://arxiv.org/abs/2503.08979) | 2025 | arXiv | 99 |
-| [From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discov…](https://arxiv.org/abs/2508.14111) | 2025 | arXiv | 70 |
+| [Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Futur…](https://arxiv.org/abs/2503.08979) | 2025 | arXiv | 101 |
+| [From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discov…](https://arxiv.org/abs/2508.14111) | 2025 | arXiv | 71 |
 
 <!-- PAPERS_END -->
