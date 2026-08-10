@@ -9,7 +9,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 <!-- PAPERS_START -->
 
-*Auto-updated 2026-08-03 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
+*Auto-updated 2026-08-10 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
 
 ### Top Papers (by relevance)
 
@@ -83,11 +83,11 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 | Title | Year | Venue | Citations |
 | --- | --- | --- | ---: |
-| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 535 |
-| [Next-Generation Experimentation with Self-Driving Laboratories](https://doi.org/10.1016/J.TRECHM.2019.02.007) | 2019 | Trends in Chemistry | 316 |
-| [A review of large language models and autonomous agents in chemistry](https://arxiv.org/abs/2407.01603) | 2024 | Chem. Sci. | 239 |
+| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 550 |
+| [Next-Generation Experimentation with Self-Driving Laboratories](https://doi.org/10.1016/J.TRECHM.2019.02.007) | 2019 | Trends in Chemistry | 319 |
+| [A review of large language models and autonomous agents in chemistry](https://arxiv.org/abs/2407.01603) | 2024 | Chem. Sci. | 245 |
 | [Large language model agents for biological intelligence across genomics, proteom…](https://doi.org/10.1093/bib/bbag110) | 2026 | Briefings in Bioinform… | 5 |
 | [Bridging data and discovery: a survey on knowledge graphs in AI for science](https://doi.org/10.1093/nsr/nwag140) | 2026 | National Science Revie… | 5 |
-| [Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Futur…](https://arxiv.org/abs/2503.08979) | 2025 | arXiv | 101 |
+| [Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Futur…](https://arxiv.org/abs/2503.08979) | 2025 | arXiv | 103 |
 
 <!-- PAPERS_END -->

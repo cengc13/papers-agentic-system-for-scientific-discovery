@@ -77,7 +77,7 @@
     "biorxiv_id": null,
     "url": "http://arxiv.org/abs/2605.16986v1",
     "venue": "arXiv",
-    "citation_count": 3,
+    "citation_count": 4,
     "domains": [
       "chemistry",
       "biology"
@@ -474,7 +474,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2503.08979",
     "venue": "arXiv.org",
-    "citation_count": 101,
+    "citation_count": 103,
     "domains": [
       "chemistry",
       "materials",
@@ -521,7 +521,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2508.14111",
     "venue": "arXiv.org",
-    "citation_count": 75,
+    "citation_count": 79,
     "domains": [
       "chemistry",
       "materials",
@@ -548,7 +548,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2508.02956",
     "venue": "",
-    "citation_count": 2,
+    "citation_count": 3,
     "domains": [
       "chemistry",
       "materials",
@@ -609,7 +609,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2510.26887",
     "venue": "arXiv.org",
-    "citation_count": 22,
+    "citation_count": 24,
     "domains": [
       "chemistry",
       "materials",
@@ -802,7 +802,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2508.13251",
     "venue": "Chemical Science",
-    "citation_count": 17,
+    "citation_count": 18,
     "domains": [
       "chemistry",
       "materials"
@@ -887,7 +887,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2511.02824",
     "venue": "arXiv.org",
-    "citation_count": 73,
+    "citation_count": 77,
     "domains": [
       "materials",
       "biology"
@@ -969,7 +969,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1002/adma.202413523",
     "venue": "Advances in Materials",
-    "citation_count": 222,
+    "citation_count": 235,
     "domains": [
       "materials",
       "biology"
@@ -1094,7 +1094,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2409.05556",
     "venue": "arXiv.org",
-    "citation_count": 90,
+    "citation_count": 91,
     "domains": [
       "materials",
       "biology"
@@ -1171,7 +1171,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2506.17510",
     "venue": "ICPP Workshops",
-    "citation_count": 8,
+    "citation_count": 9,
     "domains": [
       "materials"
     ],
@@ -1332,7 +1332,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2604.05018",
     "venue": "arXiv.org",
-    "citation_count": 8,
+    "citation_count": 9,
     "domains": [
       "chemistry",
       "materials",
@@ -1746,7 +1746,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2603.14312",
     "venue": "arXiv.org",
-    "citation_count": 9,
+    "citation_count": 10,
     "domains": [
       "chemistry",
       "materials",
@@ -1787,7 +1787,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1021/jacs.4c17738",
     "venue": "Journal of the American Chemical Society",
-    "citation_count": 152,
+    "citation_count": 157,
     "domains": [
       "chemistry",
       "materials"
@@ -1813,7 +1813,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2402.04268",
     "venue": "Digital Discovery",
-    "citation_count": 106,
+    "citation_count": 108,
     "domains": [
       "materials",
       "biology"
@@ -1839,7 +1839,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1098/rsos.250646",
     "venue": "Royal Society Open Science",
-    "citation_count": 54,
+    "citation_count": 57,
     "domains": [
       "chemistry",
       "materials",
@@ -2032,7 +2032,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2509.00098",
     "venue": "npj Computational Materials",
-    "citation_count": 12,
+    "citation_count": 14,
     "domains": [
       "materials",
       "biology"
@@ -2062,7 +2062,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2512.11935",
     "venue": "arXiv.org",
-    "citation_count": 6,
+    "citation_count": 7,
     "domains": [
       "materials"
     ],
@@ -2089,7 +2089,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2506.20743",
     "venue": "arXiv.org",
-    "citation_count": 20,
+    "citation_count": 21,
     "domains": [
       "materials",
       "biology"
@@ -2506,7 +2506,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2512.23880",
     "venue": "arXiv.org",
-    "citation_count": 24,
+    "citation_count": 25,
     "domains": [
       "chemistry",
       "materials",
@@ -2754,7 +2754,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.20517/aiagent.2025.10",
     "venue": "AI Agent",
-    "citation_count": 8,
+    "citation_count": 9,
     "domains": [
       "chemistry",
       "materials",
@@ -2785,7 +2785,7 @@
     "biorxiv_id": null,
     "url": "https://www.nature.com/articles/s42256-024-00832-8.pdf",
     "venue": "Nature Machine Intelligence",
-    "citation_count": 1097,
+    "citation_count": 1128,
     "domains": [
       "chemistry",
       "materials",
@@ -2812,7 +2812,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2510.01235",
     "venue": "Computational materials science",
-    "citation_count": 4,
+    "citation_count": 5,
     "domains": [
       "materials"
     ],
@@ -3072,7 +3072,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2505.05428",
     "venue": "arXiv.org",
-    "citation_count": 20,
+    "citation_count": 21,
     "domains": [
       "materials",
       "biology"
@@ -3558,7 +3558,7 @@
     "biorxiv_id": null,
     "url": "https://www.mdpi.com/2306-7381/11/6/239/pdf?version=1716709508",
     "venue": "Veterinary Sciences",
-    "citation_count": 6,
+    "citation_count": 7,
     "domains": [
       "materials",
       "biology"
@@ -3878,7 +3878,7 @@
     "biorxiv_id": null,
     "url": "https://europepmc.org/articles/pmc3031246?pdf=render",
     "venue": "Fitoterapia",
-    "citation_count": 51,
+    "citation_count": 52,
     "domains": [
       "chemistry",
       "materials",
@@ -4273,7 +4273,7 @@
     "biorxiv_id": null,
     "url": "http://arxiv.org/abs/2603.08127v1",
     "venue": "arXiv",
-    "citation_count": 27,
+    "citation_count": 28,
     "domains": [
       "biology"
     ],
@@ -4455,7 +4455,7 @@
     "biorxiv_id": null,
     "url": "http://arxiv.org/abs/2603.21704v1",
     "venue": "arXiv",
-    "citation_count": null,
+    "citation_count": 1,
     "domains": [
       "chemistry",
       "materials",
@@ -4810,7 +4810,7 @@
     "biorxiv_id": null,
     "url": "http://arxiv.org/abs/2602.21599v2",
     "venue": "arXiv",
-    "citation_count": null,
+    "citation_count": 1,
     "domains": [
       "chemistry",
       "biology"
@@ -5427,7 +5427,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2605.04922",
     "venue": "arXiv.org",
-    "citation_count": 0,
+    "citation_count": 2,
     "domains": [
       "chemistry",
       "biology"
@@ -5530,7 +5530,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2603.11515",
     "venue": "arXiv.org",
-    "citation_count": 1,
+    "citation_count": 2,
     "domains": [
       "materials",
       "biology"
@@ -5876,7 +5876,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1016/j.actbio.2026.03.010",
     "venue": "Acta Biomaterialia",
-    "citation_count": 0,
+    "citation_count": 1,
     "domains": [
       "materials",
       "biology"
@@ -6495,7 +6495,7 @@
     "biorxiv_id": null,
     "url": "https://pubmed.ncbi.nlm.nih.gov/41548711/",
     "venue": "Drug discovery today",
-    "citation_count": 8,
+    "citation_count": 9,
     "domains": [
       "chemistry",
       "biology"
@@ -6651,7 +6651,7 @@
     "biorxiv_id": null,
     "url": "https://pubmed.ncbi.nlm.nih.gov/41677392/",
     "venue": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-    "citation_count": 662,
+    "citation_count": 663,
     "domains": [
       "chemistry",
       "materials",
@@ -6714,7 +6714,7 @@
     "biorxiv_id": null,
     "url": "https://pubmed.ncbi.nlm.nih.gov/41899876/",
     "venue": "Bioengineering (Basel, Switzerland)",
-    "citation_count": 11,
+    "citation_count": 13,
     "domains": [
       "materials",
       "biology"
@@ -6949,7 +6949,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1101/2025.05.30.656746",
     "venue": "bioRxiv",
-    "citation_count": 205,
+    "citation_count": 211,
     "domains": [
       "biology"
     ],
@@ -7007,7 +7007,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2407.10362",
     "venue": "arXiv.org",
-    "citation_count": 156,
+    "citation_count": 159,
     "domains": [
       "biology"
     ],
@@ -7036,7 +7036,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1038/s41578-025-00772-8",
     "venue": "Nature Reviews Materials",
-    "citation_count": 118,
+    "citation_count": 120,
     "domains": [
       "chemistry"
     ],
@@ -7499,7 +7499,7 @@
     "biorxiv_id": null,
     "url": "https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055",
     "venue": "Chemical Reviews",
-    "citation_count": 535,
+    "citation_count": 550,
     "domains": [
       "chemistry",
       "materials",
@@ -7582,7 +7582,7 @@
     "biorxiv_id": null,
     "url": "https://www.nature.com/articles/s41467-024-45569-5.pdf",
     "venue": "Nature Communications",
-    "citation_count": 61,
+    "citation_count": 64,
     "domains": [
       "chemistry",
       "materials"
@@ -7640,7 +7640,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1039/d5cc01959a",
     "venue": "Chemical Communications",
-    "citation_count": 3,
+    "citation_count": 4,
     "domains": [
       "chemistry",
       "materials",
@@ -7734,7 +7734,7 @@
     "biorxiv_id": null,
     "url": "https://www.nature.com/articles/s44286-024-00033-5.pdf",
     "venue": "Nature Chemical Engineering",
-    "citation_count": 62,
+    "citation_count": 63,
     "domains": [
       "chemistry"
     ],
@@ -7827,7 +7827,7 @@
     "biorxiv_id": null,
     "url": "https://advances.sciencemag.org/content/advances/6/20/eaaz8867.full.pdf",
     "venue": "Science Advances",
-    "citation_count": 650,
+    "citation_count": 660,
     "domains": [
       "materials",
       "biology"
@@ -7858,7 +7858,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1109/SII59315.2025.10870899",
     "venue": "IEEE/SICE International Symposium on System Integration",
-    "citation_count": 0,
+    "citation_count": 1,
     "domains": [
       "chemistry",
       "materials"
@@ -7886,7 +7886,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1016/j.matt.2024.06.003",
     "venue": "Matter",
-    "citation_count": 70,
+    "citation_count": 75,
     "domains": [
       "chemistry",
       "materials"
@@ -7951,7 +7951,7 @@
     "biorxiv_id": null,
     "url": "https://pubs.rsc.org/en/content/articlepdf/2024/dd/d3dd00223c",
     "venue": "Digital Discovery",
-    "citation_count": 34,
+    "citation_count": 35,
     "domains": [
       "chemistry",
       "materials"
@@ -8033,7 +8033,7 @@
     "biorxiv_id": null,
     "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202200331",
     "venue": "Advanced Intelligent Systems",
-    "citation_count": 46,
+    "citation_count": 47,
     "domains": [
       "chemistry",
       "materials"
@@ -8066,7 +8066,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2410.17430",
     "venue": "Science Advances",
-    "citation_count": 22,
+    "citation_count": 23,
     "domains": [
       "materials"
     ],
@@ -8121,7 +8121,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.53964/jmn.2025002",
     "venue": "Journal of Modern Nanotechnology",
-    "citation_count": 2,
+    "citation_count": 3,
     "domains": [
       "chemistry",
       "materials",
@@ -8160,7 +8160,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1038/s44286-025-00249-z",
     "venue": "Nature Chemical Engineering",
-    "citation_count": 20,
+    "citation_count": 22,
     "domains": [
       "materials"
     ],
@@ -8284,7 +8284,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1038/s41467-025-59231-1",
     "venue": "Nature Communications",
-    "citation_count": 62,
+    "citation_count": 68,
     "domains": [
       "chemistry",
       "materials"
@@ -8342,7 +8342,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1021/acs.accounts.2c00220",
     "venue": "Accounts of Chemical Research",
-    "citation_count": 226,
+    "citation_count": 234,
     "domains": [
       "chemistry",
       "materials",
@@ -8376,7 +8376,7 @@
     "biorxiv_id": null,
     "url": "https://www.nature.com/articles/s41467-023-44599-9.pdf",
     "venue": "Nature Communications",
-    "citation_count": 77,
+    "citation_count": 80,
     "domains": [
       "chemistry",
       "materials",
@@ -8466,7 +8466,7 @@
     "biorxiv_id": null,
     "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.201907801",
     "venue": "Advances in Materials",
-    "citation_count": 236,
+    "citation_count": 237,
     "domains": [
       "materials"
     ],
@@ -8492,7 +8492,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1016/J.TRECHM.2019.02.007",
     "venue": "Trends in Chemistry",
-    "citation_count": 316,
+    "citation_count": 319,
     "domains": [
       "materials",
       "biology"
@@ -8774,7 +8774,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1016/j.copbio.2022.102881",
     "venue": "Current Opinion in Biotechnology",
-    "citation_count": 90,
+    "citation_count": 91,
     "domains": [
       "chemistry",
       "materials",
@@ -8977,7 +8977,7 @@
     "biorxiv_id": null,
     "url": "https://escholarship.org/content/qt09v773qn/qt09v773qn.pdf?t=r1w1cv",
     "venue": "Materials Horizons",
-    "citation_count": 96,
+    "citation_count": 97,
     "domains": [
       "chemistry",
       "materials"
@@ -9096,7 +9096,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1002/adma.202001626",
     "venue": "Advances in Materials",
-    "citation_count": 280,
+    "citation_count": 281,
     "domains": [
       "chemistry",
       "materials",
@@ -9134,7 +9134,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1038/s41467-025-63209-4",
     "venue": "Nature Communications",
-    "citation_count": 21,
+    "citation_count": 22,
     "domains": [
       "chemistry",
       "materials",
@@ -9192,7 +9192,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2406.13163",
     "venue": "arXiv.org",
-    "citation_count": 43,
+    "citation_count": 44,
     "domains": [
       "chemistry",
       "materials",
@@ -9342,7 +9342,7 @@
     "biorxiv_id": null,
     "url": "https://www.nature.com/articles/s41467-023-40339-1.pdf",
     "venue": "Nature Communications",
-    "citation_count": 45,
+    "citation_count": 46,
     "domains": [
       "materials",
       "biology"
@@ -9378,7 +9378,7 @@
     "biorxiv_id": null,
     "url": "https://pubs.rsc.org/en/content/articlepdf/2024/sc/d3sc06206f",
     "venue": "Chemical Science",
-    "citation_count": 52,
+    "citation_count": 55,
     "domains": [
       "chemistry",
       "materials"
@@ -9407,7 +9407,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1038/s41524-025-01822-z",
     "venue": "npj Computational Materials",
-    "citation_count": 2,
+    "citation_count": 3,
     "domains": [
       "chemistry"
     ],
@@ -9549,7 +9549,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1021/acsnano.1c02104",
     "venue": "ACS Nano",
-    "citation_count": 126,
+    "citation_count": 128,
     "domains": [
       "chemistry",
       "materials",
@@ -9637,7 +9637,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1021/jacsau.1c00438",
     "venue": "JACS Au",
-    "citation_count": 87,
+    "citation_count": 88,
     "domains": [
       "chemistry",
       "materials",
@@ -9665,7 +9665,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2601.00742",
     "venue": "Advances in Materials",
-    "citation_count": 12,
+    "citation_count": 13,
     "domains": [
       "chemistry",
       "materials",
@@ -10082,7 +10082,7 @@
     "biorxiv_id": null,
     "url": "https://iopscience.iop.org/article/10.1088/2632-2153/abedc8/pdf",
     "venue": "Machine Learning: Science and Technology",
-    "citation_count": 87,
+    "citation_count": 88,
     "domains": [
       "chemistry",
       "materials"
@@ -10171,7 +10171,7 @@
     "biorxiv_id": null,
     "url": "https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0229862/1/pone.0229862.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210215%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210215T065405Z&X-Goog-Expires=3600&X-Goog-SignedHeaders=host&X-Goog-Signature=2f935e3e75d9fc009f53a8f6981be89c56c2f2726ecb8cc8594c93afbd9b9beffa3a6d7876e52104ef278f75371d079d0faf95fca245f56f332e463fbcb4803c34cd9ffd8f3ecf0764edb4a4e258f2369448a1aaf847c8594415261696447c847c6a33aeb7d610d0777ecd1e318667c33572e78da4354ccf704f25ea99439e99d4e95cb64f97ef1b6b5f86c2b18ed766ea87337223b3c773be6f6ca68ca193196aaf18516b86ae206ad5e86e302531b80ebbe9e18a7759641cbf88faed232aa83610520ff5ebbfd73a8d9b722bdbb01e7b2dcaf2abae04025abb1965591188492dfcd3babe364a316aebdf167037063aa292538f368b100d02deabccac983ad8",
     "venue": "PLoS ONE",
-    "citation_count": 137,
+    "citation_count": 138,
     "domains": [
       "materials"
     ],
@@ -10201,7 +10201,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1126/science.adj1817",
     "venue": "Science",
-    "citation_count": 232,
+    "citation_count": 233,
     "domains": [
       "chemistry",
       "materials",
@@ -10239,7 +10239,7 @@
     "biorxiv_id": null,
     "url": "https://link.springer.com/content/pdf/10.1007/s10514-023-10136-2.pdf",
     "venue": "Autonomous Robots",
-    "citation_count": 121,
+    "citation_count": 122,
     "domains": [
       "chemistry",
       "materials",
@@ -10387,7 +10387,7 @@
     "biorxiv_id": null,
     "url": "https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-6/issue-1/016001/Autonomous-aeroamphibious-invisibility-cloak-with-stochastic-evolution-learning/10.1117/1.AP.6.1.016001.pdf",
     "venue": "Advanced Photonics",
-    "citation_count": 30,
+    "citation_count": 31,
     "domains": [
       "chemistry",
       "materials"
@@ -10447,7 +10447,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1038/s41467-025-64105-7",
     "venue": "Nature Communications",
-    "citation_count": 43,
+    "citation_count": 48,
     "domains": [
       "materials",
       "biology"
@@ -10508,7 +10508,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1016/j.xcrp.2025.102548",
     "venue": "Cell Reports Physical Science",
-    "citation_count": 22,
+    "citation_count": 24,
     "domains": [
       "chemistry",
       "materials",
@@ -10536,7 +10536,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.20517/jmi.2025.87",
     "venue": "Journal of Materials Informatics",
-    "citation_count": 3,
+    "citation_count": 4,
     "domains": [
       "chemistry",
       "materials"
@@ -10623,7 +10623,7 @@
     "biorxiv_id": null,
     "url": "https://globalizationandhealth.biomedcentral.com/counter/pdf/10.1186/s12992-024-01049-5",
     "venue": "Globalization and Health",
-    "citation_count": 70,
+    "citation_count": 71,
     "domains": [
       "chemistry",
       "materials",
@@ -10854,7 +10854,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.64229/3vw8qf18",
     "venue": "Journal of Computational Systems and Applications",
-    "citation_count": 2,
+    "citation_count": 3,
     "domains": [
       "chemistry",
       "materials",
@@ -11168,7 +11168,7 @@
     "biorxiv_id": null,
     "url": "https://www.frontiersin.org/articles/10.3389/frsc.2020.00038/pdf",
     "venue": "Frontiers in Sustainable Cities",
-    "citation_count": 216,
+    "citation_count": 217,
     "domains": [
       "materials",
       "biology"
@@ -11195,7 +11195,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2407.01603",
     "venue": "Chemical Science",
-    "citation_count": 239,
+    "citation_count": 245,
     "domains": [
       "chemistry"
     ],
@@ -11299,7 +11299,7 @@
     "biorxiv_id": null,
     "url": "http://arxiv.org/pdf/2304.05332",
     "venue": "arXiv.org",
-    "citation_count": 185,
+    "citation_count": 187,
     "domains": [
       "chemistry",
       "biology"
@@ -11388,7 +11388,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2504.18340",
     "venue": "Nature Machine Intelligence",
-    "citation_count": 52,
+    "citation_count": 57,
     "domains": [
       "chemistry",
       "materials",
@@ -11417,7 +11417,7 @@
     "biorxiv_id": null,
     "url": "https://www.nature.com/articles/s41586-023-06792-0.pdf",
     "venue": "Nature",
-    "citation_count": 1145,
+    "citation_count": 1169,
     "domains": [
       "chemistry",
       "biology"
@@ -11834,7 +11834,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2506.15567",
     "venue": "International Symposium for Testing and Failure Analysis",
-    "citation_count": 2,
+    "citation_count": 4,
     "domains": [
       "materials",
       "biology"
@@ -11977,7 +11977,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2506.06363",
     "venue": "arXiv.org",
-    "citation_count": 19,
+    "citation_count": 20,
     "domains": [
       "chemistry",
       "materials",
@@ -12005,7 +12005,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1038/s42004-025-01776-9",
     "venue": "Communications Chemistry",
-    "citation_count": 14,
+    "citation_count": 15,
     "domains": [
       "chemistry",
       "materials"
@@ -12032,7 +12032,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1126/sciadv.aed0583",
     "venue": "Science Advances",
-    "citation_count": 3,
+    "citation_count": 5,
     "domains": [
       "materials"
     ],
@@ -12061,7 +12061,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2507.20280",
     "venue": "Nature Computational Science",
-    "citation_count": 69,
+    "citation_count": 71,
     "domains": [
       "chemistry",
       "materials",
@@ -12180,7 +12180,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1016/j.csbj.2025.07.012",
     "venue": "Computational and Structural Biotechnology Journal",
-    "citation_count": 3,
+    "citation_count": 5,
     "domains": [
       "materials",
       "biology"
@@ -12211,7 +12211,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2505.18079",
     "venue": "arXiv.org",
-    "citation_count": 60,
+    "citation_count": 64,
     "domains": [
       "AI/science"
     ],
@@ -12268,7 +12268,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2408.11793",
     "venue": "arXiv.org",
-    "citation_count": 3,
+    "citation_count": 4,
     "domains": [
       "chemistry",
       "materials",
@@ -12434,7 +12434,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1038/s41568-025-00900-0",
     "venue": "Nature Reviews. Cancer",
-    "citation_count": 13,
+    "citation_count": 16,
     "domains": [
       "AI/science"
     ],
@@ -12521,7 +12521,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.2196/79464",
     "venue": "JMIR AI",
-    "citation_count": 0,
+    "citation_count": 1,
     "domains": [
       "biology"
     ],
@@ -12865,7 +12865,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2505.13400",
     "venue": "arXiv.org",
-    "citation_count": 78,
+    "citation_count": 79,
     "domains": [
       "biology",
       "AI/science"
@@ -12961,7 +12961,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2410.09403",
     "venue": "Annual Meeting of the Association for Computational Linguistics",
-    "citation_count": 75,
+    "citation_count": 76,
     "domains": [
       "biology"
     ],
@@ -12986,7 +12986,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2511.07262",
     "venue": "arXiv.org",
-    "citation_count": 15,
+    "citation_count": 17,
     "domains": [
       "biology"
     ],
@@ -13101,7 +13101,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2504.08810",
     "venue": "arXiv.org",
-    "citation_count": 4,
+    "citation_count": 5,
     "domains": [
       "chemistry",
       "materials",
@@ -13250,7 +13250,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2512.13930",
     "venue": "arXiv.org",
-    "citation_count": 0,
+    "citation_count": 1,
     "domains": [
       "chemistry",
       "materials"
@@ -13333,7 +13333,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2509.13782",
     "venue": "arXiv.org",
-    "citation_count": 27,
+    "citation_count": 30,
     "domains": [
       "AI/science"
     ],
@@ -13390,7 +13390,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2503.05854",
     "venue": "Frontiers Artif. Intell.",
-    "citation_count": 18,
+    "citation_count": 19,
     "domains": [
       "AI/science"
     ],
@@ -13419,7 +13419,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2507.04053",
     "venue": "Materials Genome Engineering Advances",
-    "citation_count": 5,
+    "citation_count": 6,
     "domains": [
       "materials",
       "biology"
@@ -13546,7 +13546,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2505.18397",
     "venue": "arXiv.org",
-    "citation_count": 15,
+    "citation_count": 16,
     "domains": [
       "biology"
     ],
@@ -13603,7 +13603,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1109/BIBM66473.2025.11356120",
     "venue": "IEEE International Conference on Bioinformatics and Biomedicine",
-    "citation_count": 0,
+    "citation_count": 1,
     "domains": [
       "biology"
     ],
@@ -14214,7 +14214,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2504.19017",
     "venue": "arXiv.org",
-    "citation_count": 26,
+    "citation_count": 27,
     "domains": [
       "biology"
     ],
@@ -14248,7 +14248,7 @@
     "biorxiv_id": null,
     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/73E3A4F24120EBD71A782F0ED278ECB3/S2159685919000508a.pdf/div-class-title-crystal-a-multi-agent-ai-system-for-automated-mapping-of-materials-crystal-structures-div.pdf",
     "venue": "MRS Communications",
-    "citation_count": 38,
+    "citation_count": 39,
     "domains": [
       "chemistry",
       "materials",
@@ -14446,7 +14446,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.48550/arXiv.2406.09098",
     "venue": "arXiv.org",
-    "citation_count": 45,
+    "citation_count": 46,
     "domains": [
       "AI/science",
       "chemistry",
@@ -14727,7 +14727,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2602.02919",
     "venue": "arXiv.org",
-    "citation_count": 15,
+    "citation_count": 16,
     "domains": [
       "biology"
     ],
@@ -14936,7 +14936,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2508.21148",
     "venue": "arXiv.org",
-    "citation_count": 25,
+    "citation_count": 26,
     "domains": [
       "chemistry",
       "biology"
@@ -14976,7 +14976,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2604.05550",
     "venue": "arXiv.org",
-    "citation_count": 12,
+    "citation_count": 13,
     "domains": [
       "biology"
     ],
@@ -15063,7 +15063,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1016/j.bmc.2024.117876",
     "venue": "Bioorganic & Medicinal Chemistry",
-    "citation_count": 24,
+    "citation_count": 25,
     "domains": [
       "chemistry",
       "biology"
@@ -15119,7 +15119,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.3390/ijms26146996",
     "venue": "International Journal of Molecular Sciences",
-    "citation_count": 39,
+    "citation_count": 40,
     "domains": [
       "chemistry",
       "biology"
@@ -15179,7 +15179,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2512.10034",
     "venue": "arXiv.org",
-    "citation_count": 5,
+    "citation_count": 6,
     "domains": [
       "biology"
     ],
@@ -15314,7 +15314,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2602.05665",
     "venue": "arXiv.org",
-    "citation_count": 15,
+    "citation_count": 16,
     "domains": [
       "AI/science"
     ],
@@ -15576,7 +15576,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2502.18864",
     "venue": "arXiv.org",
-    "citation_count": 384,
+    "citation_count": 396,
     "domains": [
       "biology"
     ],
@@ -15838,7 +15838,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1080/17460441.2024.2322990",
     "venue": "Expert Opinion on Drug Discovery",
-    "citation_count": 153,
+    "citation_count": 156,
     "domains": [
       "chemistry",
       "biology"
@@ -16298,7 +16298,7 @@
     "biorxiv_id": null,
     "url": "https://www.nature.com/articles/s41467-023-37139-y.pdf",
     "venue": "Nature Communications",
-    "citation_count": 164,
+    "citation_count": 165,
     "domains": [
       "chemistry",
       "materials",
@@ -16375,7 +16375,7 @@
     "biorxiv_id": null,
     "url": "https://www.nature.com/articles/s41467-020-19597-w.pdf",
     "venue": "Nature Communications",
-    "citation_count": 51,
+    "citation_count": 52,
     "domains": [
       "chemistry",
       "materials"
@@ -16626,7 +16626,7 @@
     "biorxiv_id": null,
     "url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6435f8c5a41dec1a56e64577/original/autonomous-multi-property-driven-molecular-discovery-from-predictions-to-measurements-and-back.pdf",
     "venue": "Science",
-    "citation_count": 135,
+    "citation_count": 137,
     "domains": [
       "chemistry",
       "materials",
@@ -16656,7 +16656,7 @@
     "biorxiv_id": null,
     "url": "http://arxiv.org/pdf/2204.05838",
     "venue": "Oxford Open Materials Science",
-    "citation_count": 42,
+    "citation_count": 43,
     "domains": [
       "materials"
     ],
@@ -16766,7 +16766,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2506.04282",
     "venue": "arXiv.org",
-    "citation_count": 18,
+    "citation_count": 20,
     "domains": [
       "chemistry",
       "materials",
@@ -16858,7 +16858,7 @@
     "biorxiv_id": null,
     "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aenm.202404961",
     "venue": "Advanced Energy Materials",
-    "citation_count": 18,
+    "citation_count": 19,
     "domains": [
       "chemistry",
       "materials",
@@ -16976,7 +16976,7 @@
     "biorxiv_id": null,
     "url": "https://www.nature.com/articles/npjcompumats201631.pdf",
     "venue": "",
-    "citation_count": 346,
+    "citation_count": 349,
     "domains": [
       "chemistry",
       "materials"
@@ -17003,7 +17003,7 @@
     "biorxiv_id": null,
     "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aenm.202100362",
     "venue": "Advanced Energy Materials",
-    "citation_count": 54,
+    "citation_count": 55,
     "domains": [
       "chemistry",
       "materials"
@@ -17397,7 +17397,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2503.13399",
     "venue": "Computer Vision and Pattern Recognition",
-    "citation_count": 33,
+    "citation_count": 35,
     "domains": [
       "biology"
     ],
@@ -17429,7 +17429,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2411.16955",
     "venue": "Nature Computational Science",
-    "citation_count": 59,
+    "citation_count": 62,
     "domains": [
       "chemistry",
       "materials"
@@ -17530,7 +17530,7 @@
     "biorxiv_id": null,
     "url": "http://www.cell.com/article/S2666675821001041/pdf",
     "venue": "The Innovation",
-    "citation_count": 1487,
+    "citation_count": 1497,
     "domains": [
       "chemistry",
       "materials"
@@ -17589,7 +17589,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2601.21165",
     "venue": "arXiv.org",
-    "citation_count": 31,
+    "citation_count": 32,
     "domains": [
       "chemistry",
       "biology"
@@ -17783,7 +17783,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2411.15221",
     "venue": "arXiv.org",
-    "citation_count": 12,
+    "citation_count": 13,
     "domains": [
       "chemistry",
       "materials",
@@ -18060,7 +18060,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2601.01678",
     "venue": "arXiv.org",
-    "citation_count": 6,
+    "citation_count": 8,
     "domains": [
       "biology"
     ],
@@ -18170,7 +18170,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2311.07361",
     "venue": "arXiv.org",
-    "citation_count": 191,
+    "citation_count": 194,
     "domains": [
       "chemistry",
       "materials",
@@ -18206,7 +18206,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1002/adma.202405163",
     "venue": "Advances in Materials",
-    "citation_count": 47,
+    "citation_count": 49,
     "domains": [
       "materials",
       "biology"
@@ -18260,7 +18260,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2407.13168",
     "venue": "Neural Information Processing Systems",
-    "citation_count": 142,
+    "citation_count": 143,
     "domains": [
       "chemistry",
       "materials",
@@ -18513,7 +18513,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2512.15567",
     "venue": "arXiv.org",
-    "citation_count": 28,
+    "citation_count": 29,
     "domains": [
       "chemistry",
       "materials",
@@ -18571,7 +18571,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.3390/jox15010006",
     "venue": "Journal of Xenobiotics",
-    "citation_count": 58,
+    "citation_count": 59,
     "domains": [
       "chemistry",
       "materials",
@@ -18773,7 +18773,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2411.16736",
     "venue": "arXiv.org",
-    "citation_count": 11,
+    "citation_count": 12,
     "domains": [
       "chemistry",
       "materials",
@@ -18801,7 +18801,7 @@
     "biorxiv_id": null,
     "url": "https://www.nature.com/articles/s41570-019-0124-0.pdf",
     "venue": "Nature Reviews Chemistry",
-    "citation_count": 238,
+    "citation_count": 239,
     "domains": [
       "chemistry"
     ],
@@ -18853,7 +18853,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2601.12910",
     "venue": "arXiv.org",
-    "citation_count": 5,
+    "citation_count": 6,
     "domains": [
       "biology"
     ],
@@ -18973,7 +18973,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1021/jacs.5c11789",
     "venue": "Journal of the American Chemical Society",
-    "citation_count": 20,
+    "citation_count": 22,
     "domains": [
       "chemistry",
       "materials"
@@ -19044,7 +19044,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1101/2025.06.03.657517",
     "venue": "bioRxiv",
-    "citation_count": 28,
+    "citation_count": 30,
     "domains": [
       "biology"
     ],
@@ -19145,7 +19145,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1021/acsnano.5c09165",
     "venue": "ACS Nano",
-    "citation_count": 23,
+    "citation_count": 25,
     "domains": [
       "chemistry",
       "materials",
@@ -19179,7 +19179,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2409.13740",
     "venue": "arXiv.org",
-    "citation_count": 147,
+    "citation_count": 148,
     "domains": [
       "chemistry",
       "biology"
@@ -19476,7 +19476,7 @@
     "biorxiv_id": null,
     "url": "http://arxiv.org/abs/2604.21590v1",
     "venue": "arXiv",
-    "citation_count": null,
+    "citation_count": 1,
     "domains": [
       "chemistry",
       "biology"
@@ -19696,7 +19696,7 @@
     "biorxiv_id": null,
     "url": "http://arxiv.org/abs/2602.20867v1",
     "venue": "arXiv",
-    "citation_count": 81,
+    "citation_count": 87,
     "domains": [
       "biology"
     ],
@@ -20018,7 +20018,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2504.19678",
     "venue": "arXiv.org",
-    "citation_count": 195,
+    "citation_count": 199,
     "domains": [
       "chemistry",
       "materials",
@@ -20614,7 +20614,7 @@
     "biorxiv_id": null,
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7945008",
     "venue": "Science",
-    "citation_count": 68,
+    "citation_count": 69,
     "domains": [
       "chemistry",
       "biology"
@@ -20646,7 +20646,7 @@
     "biorxiv_id": null,
     "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wnan.1959",
     "venue": "Wiley Interdisciplinary Reviews: Nanomedicine and Nanobiotechnology",
-    "citation_count": 23,
+    "citation_count": 24,
     "domains": [
       "chemistry",
       "materials",
@@ -21266,7 +21266,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1002/smtd.202400813",
     "venue": "Small Methods",
-    "citation_count": 21,
+    "citation_count": 22,
     "domains": [
       "materials"
     ],
@@ -21351,7 +21351,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1021/acs.chemrev.2c00709",
     "venue": "Chemical Reviews",
-    "citation_count": 65,
+    "citation_count": 66,
     "domains": [
       "chemistry",
       "materials",
@@ -21592,7 +21592,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2601.12560",
     "venue": "arXiv.org",
-    "citation_count": 11,
+    "citation_count": 13,
     "domains": [
       "biology"
     ],
@@ -21764,7 +21764,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2501.13411",
     "venue": "arXiv.org",
-    "citation_count": 54,
+    "citation_count": 55,
     "domains": [
       "biology"
     ],
@@ -21817,7 +21817,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2509.06278",
     "venue": "Web Search and Data Mining",
-    "citation_count": 16,
+    "citation_count": 17,
     "domains": [
       "biology"
     ],
@@ -22160,7 +22160,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2509.03890",
     "venue": "arXiv.org",
-    "citation_count": 5,
+    "citation_count": 6,
     "domains": [
       "biology"
     ],
@@ -22210,7 +22210,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2506.12594",
     "venue": "arXiv.org",
-    "citation_count": 46,
+    "citation_count": 47,
     "domains": [
       "chemistry",
       "biology"
@@ -22264,7 +22264,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2601.07577",
     "venue": "arXiv.org",
-    "citation_count": 3,
+    "citation_count": 4,
     "domains": [
       "biology"
     ],
@@ -22396,7 +22396,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2603.09843",
     "venue": "arXiv.org",
-    "citation_count": 3,
+    "citation_count": 4,
     "domains": [
       "AI/science"
     ],
@@ -22540,7 +22540,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1109/TIV.2023.3325300",
     "venue": "IEEE Transactions on Intelligent Vehicles",
-    "citation_count": 93,
+    "citation_count": 94,
     "domains": [
       "biology"
     ],
@@ -22708,7 +22708,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2601.19793",
     "venue": "arXiv.org",
-    "citation_count": 2,
+    "citation_count": 3,
     "domains": [
       "AI/science"
     ],
@@ -22882,7 +22882,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2508.17692",
     "venue": "arXiv.org",
-    "citation_count": 35,
+    "citation_count": 36,
     "domains": [
       "AI/science"
     ],
@@ -22936,7 +22936,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1080/17460441.2019.1614910",
     "venue": "Expert Opinion on Drug Discovery",
-    "citation_count": 203,
+    "citation_count": 204,
     "domains": [
       "chemistry",
       "biology"
@@ -22994,7 +22994,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2503.20479",
     "venue": "Science Advances",
-    "citation_count": 26,
+    "citation_count": 28,
     "domains": [
       "biology"
     ],
@@ -23339,7 +23339,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.59934/jaiea.v4i3.1101",
     "venue": "Journal of Artificial Intelligence and Engineering Applications (JAIEA)",
-    "citation_count": 7,
+    "citation_count": 8,
     "domains": [
       "chemistry",
       "materials",
@@ -23398,7 +23398,7 @@
     "biorxiv_id": null,
     "url": "https://www.mdpi.com/2073-4352/9/7/361/pdf?version=1563937359",
     "venue": "Crystals",
-    "citation_count": 113,
+    "citation_count": 114,
     "domains": [
       "chemistry",
       "materials",
@@ -23426,7 +23426,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1007/s44371-025-00152-9",
     "venue": "Discover Chemistry",
-    "citation_count": 133,
+    "citation_count": 137,
     "domains": [
       "chemistry",
       "materials"
@@ -23557,7 +23557,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2402.05138",
     "venue": "Annual Meeting of the Association for Computational Linguistics",
-    "citation_count": 41,
+    "citation_count": 42,
     "domains": [
       "chemistry",
       "biology"
@@ -23585,7 +23585,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1002/adma.201904197",
     "venue": "Advances in Materials",
-    "citation_count": 1312,
+    "citation_count": 1316,
     "domains": [
       "chemistry",
       "materials",
@@ -25457,7 +25457,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1101/2025.07.31.667797",
     "venue": "bioRxiv",
-    "citation_count": 4,
+    "citation_count": 5,
     "domains": [
       "biology",
       "chemistry"
@@ -25486,7 +25486,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2602.12259",
     "venue": "arXiv.org",
-    "citation_count": 7,
+    "citation_count": 8,
     "domains": [
       "AI/science"
     ],
@@ -25692,7 +25692,7 @@
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2605.21740",
     "venue": "arXiv.org",
-    "citation_count": 0,
+    "citation_count": 1,
     "domains": [
       "chemistry",
       "biology"
@@ -26390,7 +26390,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1183/23120541.01699-2025",
     "venue": "ERJ Open Research",
-    "citation_count": 0,
+    "citation_count": 1,
     "domains": [
       "biology"
     ],
@@ -26567,7 +26567,7 @@
     "pubmed_id": null,
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2606.05050",
-    "venue": "",
+    "venue": "arXiv.org",
     "citation_count": 1,
     "domains": [
       "chemistry",
@@ -95240,7 +95240,7 @@
     "pubmed_id": null,
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2606.03755",
-    "venue": "",
+    "venue": "arXiv.org",
     "citation_count": 1,
     "domains": [
       "AI/science"
@@ -95443,7 +95443,7 @@
     "pubmed_id": null,
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2606.06525",
-    "venue": "",
+    "venue": "arXiv.org",
     "citation_count": 2,
     "domains": [
       "biology"
@@ -95647,7 +95647,7 @@
     "biorxiv_id": null,
     "url": "http://arxiv.org/abs/2606.08688v1",
     "venue": "arXiv",
-    "citation_count": 1,
+    "citation_count": 2,
     "domains": [
       "chemistry",
       "materials",
@@ -95922,7 +95922,7 @@
     "pubmed_id": null,
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2606.15931",
-    "venue": "",
+    "venue": "arXiv.org",
     "citation_count": 0,
     "domains": [
       "biology"
@@ -96079,7 +96079,7 @@
     "pubmed_id": null,
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2606.13380",
-    "venue": "",
+    "venue": "arXiv.org",
     "citation_count": 0,
     "domains": [
       "chemistry",
@@ -96208,7 +96208,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1038/s41586-026-10644-y",
     "venue": "Nature",
-    "citation_count": 384,
+    "citation_count": 396,
     "domains": [
       "AI/science"
     ],
@@ -96314,7 +96314,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1021/acs.accounts.6c00187",
     "venue": "Accounts of Chemical Research",
-    "citation_count": 0,
+    "citation_count": 1,
     "domains": [
       "chemistry",
       "materials",
@@ -96372,8 +96372,8 @@
     "pubmed_id": null,
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2606.11150",
-    "venue": "",
-    "citation_count": 5,
+    "venue": "arXiv.org",
+    "citation_count": 6,
     "domains": [
       "chemistry",
       "biology"
@@ -96693,7 +96693,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1021/acs.chemrev.6c00012",
     "venue": "Chemical Reviews",
-    "citation_count": 2,
+    "citation_count": 3,
     "domains": [
       "materials",
       "biology"
@@ -96969,7 +96969,7 @@
     "pubmed_id": null,
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2606.06545",
-    "venue": "",
+    "venue": "arXiv.org",
     "citation_count": 0,
     "domains": [
       "chemistry"
@@ -97196,7 +97196,7 @@
     "biorxiv_id": null,
     "url": "http://arxiv.org/abs/2606.27330v1",
     "venue": "arXiv",
-    "citation_count": 1,
+    "citation_count": 3,
     "domains": [
       "biology"
     ],
@@ -97257,7 +97257,7 @@
     "biorxiv_id": null,
     "url": "http://arxiv.org/abs/2606.22388v1",
     "venue": "arXiv",
-    "citation_count": 4,
+    "citation_count": 5,
     "domains": [
       "AI/science"
     ],
@@ -97392,7 +97392,7 @@
     "pubmed_id": null,
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2606.20753",
-    "venue": "",
+    "venue": "arXiv.org",
     "citation_count": 0,
     "domains": [
       "materials",
@@ -97421,7 +97421,7 @@
     "pubmed_id": null,
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2606.20729",
-    "venue": "",
+    "venue": "arXiv.org",
     "citation_count": 0,
     "domains": [
       "chemistry",
@@ -97488,7 +97488,7 @@
     "pubmed_id": null,
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2606.19152",
-    "venue": "",
+    "venue": "arXiv.org",
     "citation_count": 0,
     "domains": [
       "chemistry",
@@ -97544,7 +97544,7 @@
     "pubmed_id": null,
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2606.19899",
-    "venue": "",
+    "venue": "arXiv.org",
     "citation_count": 4,
     "domains": [
       "materials",
@@ -97742,7 +97742,7 @@
     "biorxiv_id": null,
     "url": "http://arxiv.org/abs/2607.00041v1",
     "venue": "arXiv",
-    "citation_count": 1,
+    "citation_count": 3,
     "domains": [
       "chemistry",
       "biology"
@@ -97906,7 +97906,7 @@
     "pubmed_id": null,
     "biorxiv_id": null,
     "url": "https://arxiv.org/abs/2606.29100",
-    "venue": "",
+    "venue": "arXiv.org",
     "citation_count": 0,
     "domains": [
       "materials",
@@ -98408,7 +98408,7 @@
     "biorxiv_id": null,
     "url": "http://arxiv.org/abs/2607.04686v1",
     "venue": "arXiv",
-    "citation_count": 1,
+    "citation_count": 2,
     "domains": [
       "AI/science"
     ],
@@ -98432,7 +98432,7 @@
     "biorxiv_id": null,
     "url": "http://arxiv.org/abs/2607.05682v1",
     "venue": "arXiv",
-    "citation_count": null,
+    "citation_count": 1,
     "domains": [
       "chemistry",
       "biology"
@@ -98624,7 +98624,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1126/science.adz4351",
     "venue": "Science",
-    "citation_count": 8,
+    "citation_count": 9,
     "domains": [
       "biology"
     ],
@@ -99226,7 +99226,7 @@
     "biorxiv_id": null,
     "url": "https://doi.org/10.1021/acs.accounts.6c00273",
     "venue": "Accounts of Chemical Research",
-    "citation_count": 1,
+    "citation_count": 2,
     "domains": [
       "chemistry",
       "materials",
@@ -100409,5 +100409,426 @@
     "llm_on_topic": true,
     "venue_llm": "chemRxiv",
     "relevance": 95
+  },
+  {
+    "title": "From Profiling to Synthesis: Benchmarking Implicit Behavioral Alignment in Personalized LLM Agents",
+    "authors": [
+      "Jiajia Song",
+      "Bobo Li",
+      "Haiwen Yi",
+      "Zibo Ji",
+      "Meishan Zhang",
+      "Hao Fei",
+      "Min Zhang",
+      "Mong-Li Lee",
+      "Wynne Hsu"
+    ],
+    "abstract": "Large Language Models have enabled increasingly capable autonomous agents, yet personalization remains critical for making such agents practically useful. Recent benchmarks have begun evaluating personalization in agents, but they largely rely on static preference snapshots, fixed interaction logs, or question answering over predefined user profiles. Such designs fail to capture the complexity of evolving user preferences and neglect preference-conditioned task execution-a discrepancy we term as the knowledge-to-action gap. To address this challenge, we introduce IBA-Bench, a benchmark for implicit behavioral alignment constructed from longitudinal interaction histories that contain noise, implicit cues, and temporal inconsistencies. Unlike prior work, IBA-Bench evaluates whether an agent ",
+    "source": "arxiv",
+    "published_date": "2026-08-03",
+    "doi": null,
+    "arxiv_id": "2608.02171v1",
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "http://arxiv.org/abs/2608.02171v1",
+    "venue": "arXiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry"
+    ],
+    "code_url": null,
+    "paper_type": "article",
+    "llm_on_topic": true,
+    "venue_llm": null,
+    "relevance": 85
+  },
+  {
+    "title": "Test-time reasoning effort and unauthorized tool use in language-model agents: a prespecified equivalence study",
+    "authors": [
+      "Xiaonan Xu",
+      "Wenjing Wu"
+    ],
+    "abstract": "Language-model agents that execute multi-step workflows through tool calls operate under access-control policies that restrict which operations each role may perform. The APIs serving these agents expose a reasoning-effort parameter that operators adjust for cost and latency. Whether this parameter also changes the rate of unauthorized tool use has not been tested by direct manipulation within a single model. We vary reasoning effort (low, max) inside GPT-5.6 across the 14 confirmatory scenarios of TRIO-20, a suite of 20 matched workplace triads in which a policy-prohibited tool call is effective and its effect on the target metric is stated in the environment, effective but discoverable only through rule inspection, or ineffective. The three conditions derive from one code base and differ",
+    "source": "arxiv",
+    "published_date": "2026-08-04",
+    "doi": null,
+    "arxiv_id": "2608.03169v1",
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "http://arxiv.org/abs/2608.03169v1",
+    "venue": "arXiv",
+    "citation_count": null,
+    "domains": [
+      "AI/science"
+    ],
+    "code_url": "https://github.com/WenJing95/trio-20",
+    "paper_type": "article",
+    "llm_on_topic": false,
+    "venue_llm": null,
+    "relevance": 35
+  },
+  {
+    "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+    "authors": [
+      "Zian Zhai",
+      "Xingyu Tan",
+      "Gaowang Zou",
+      "Xiaoyang Wang",
+      "Wenjie Zhang"
+    ],
+    "abstract": "Large language model (LLM) agents increasingly rely on external tools to complete complex real-world tasks. However, reliable tool-use planning remains challenging due to the limitations of implicit reasoning and the evolving nature of real-world execution environments. Existing tool-use agents typically rely on LLMs to infer tool compositions from textual descriptions, which can lead to inefficient exploration and unreliable execution in complex tasks. To address these challenges, we model tool relations at the schema level and construct a directed Tool--Schema Hypergraph, in which tools are represented as hyperedges from their required input-schema nodes to their output-schema nodes. Furthermore, we propose HyperAgent, a Tool--Schema Hypergraph-guided framework for dynamic planning and e",
+    "source": "arxiv",
+    "published_date": "2026-07-31",
+    "doi": null,
+    "arxiv_id": "2608.02650v1",
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "http://arxiv.org/abs/2608.02650v1",
+    "venue": "arXiv",
+    "citation_count": null,
+    "domains": [
+      "AI/science"
+    ],
+    "code_url": null,
+    "paper_type": "article",
+    "llm_on_topic": true,
+    "venue_llm": null,
+    "relevance": 88
+  },
+  {
+    "title": "A New Paradigm: Agentic AI for Scientific Discovery",
+    "authors": [
+      "Alexander Taktakidze"
+    ],
+    "abstract": "Artificial intelligence in science is undergoing a foundational change. Rather than serving as a passive analytical instrument \u2014 classifying images, predicting structures, spotting patterns \u2014 AI systems are beginning to act as autonomous research collaborators. These systems, built on large language models and tool-integrated architectures, can reason about experimental design, formulate strategies, execute multi-step workflows, and refine their approaches from empirical feedback. Often called \u201cAI Scientists,\u201d they participate across the full research lifecycle, from the seed of a hypothesis through to a draft manuscript. This article examines the emerging paradigm of agentic AI for scientific discovery. It traces the conceptual shift from tools to agents, lays out a six-stage workflow spa",
+    "source": "semantic_scholar",
+    "published_date": "2026-08-02",
+    "doi": "10.65649/ukh4n33x",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://longevity.ge/longhoriz/article/download/196/pdf",
+    "venue": "Longevity Horizon",
+    "citation_count": 0,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null,
+    "paper_type": "review",
+    "llm_on_topic": true,
+    "venue_llm": "Longevity Horizon",
+    "relevance": 90
+  },
+  {
+    "title": "Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery",
+    "authors": [
+      "Tao Han",
+      "Yuchen Zhang",
+      "Jinghang Wang",
+      "Yun Wu",
+      "Wai Yuet Chiu",
+      "Zhaohai Li",
+      "Yifei Zhang",
+      "Jinxin Wang",
+      "Yuhao Zhou",
+      "Chen Zhao",
+      "Jiajia Li",
+      "Jiaxin Li",
+      "Qi Jin",
+      "Kewei Sun",
+      "Shuang Wu",
+      "Weiqi Zhai",
+      "Renquan Lv",
+      "Junchao Li",
+      "Ruodan Chen",
+      "Qingteng Chen",
+      "Zhibo Yang",
+      "Hu Wei",
+      "Lin Qu",
+      "Shuai Bai",
+      "Bing Zhao"
+    ],
+    "abstract": "Large language models (LLMs) are increasingly involved in scientific discovery, yet it remains unclear whether they can support complex real laboratory science. Here we introduce Science Edge Evaluation (SEE), a multimodal benchmark of expert-curated questions grounded in peer-reviewed literature and experimental practice in chemistry, biology, and materials science. Evaluation of 19 multimodal large language models (MLLMs) shows that even the best-performing model reaches only 48.7% accuracy. Moreover, general-purpose models outperform science-specialized models on average. In the visual-agent evaluation, the use of tools increases the best accuracy to 52.7%. Tool use can expand the information available to models, but more information does not necessarily lead to reliable scientific reas",
+    "source": "semantic_scholar",
+    "published_date": "2026-08-07",
+    "doi": null,
+    "arxiv_id": "2608.06931",
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://arxiv.org/abs/2608.06931",
+    "venue": "",
+    "citation_count": 0,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null,
+    "paper_type": "article",
+    "llm_on_topic": false,
+    "venue_llm": null,
+    "relevance": 38
+  },
+  {
+    "title": "The Autonomous AI Scientist of 2030 Needs Inferential Arbitrage",
+    "authors": [
+      "Amarda Shehu"
+    ],
+    "abstract": "Across AI-driven science, generative capacity has outpaced investigative judgment. It is now possible to produce millions of plausible candidates in hours, but not yet to decide which merit expensive validation. This asymmetry defines the central bottleneck of scientific discovery for the next decade. This blue sky paper casts scientific investigation as an information market. A strategically intelligent agent must exploit cost-information asymmetries across fidelity levels, purchasing cheap inferences to decide whether expensive ones are worth acquiring. The paper formalizes this principle as Inferential Arbitrage: a multi-fidelity Markov Decision Process in which agents maximize inferential return on investment. The formulation is pluralistic by design, admitting reinforcement learning, ",
+    "source": "semantic_scholar",
+    "published_date": "2026-08-09",
+    "doi": "10.1145/3770855.3818657",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.1145/3770855.3818657",
+    "venue": "",
+    "citation_count": 0,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null,
+    "paper_type": "article",
+    "llm_on_topic": true,
+    "venue_llm": null,
+    "relevance": 80
+  },
+  {
+    "title": "Physics-Grounded Materials Artificial Intelligence for Reliable Materials Discovery",
+    "authors": [
+      "Yuhang Wang",
+      "Qian Wang",
+      "Seong-Hoon Jang",
+      "Hao Li"
+    ],
+    "abstract": "Artificial intelligence (AI) is transforming materials discovery, yet conventional data-driven approaches often suffer from limited interpretability, poor extrapolation, and inconsistency with physical laws. Since materials behavior is fundamentally governed by thermodynamics, kinetics, electronic structure, transport processes, and operating environments, the next generation of materials intelligence must move beyond correlation-based prediction toward physics-grounded reasoning. In this Perspective, we systematically discuss Physics-Grounded Materials AI (PhysMat AI) as a unifying perspective for integrating physical knowledge into materials intelligence through five complementary roles: physics as prior knowledge, descriptors, constraints, verifiers, and infrastructure. Using representa",
+    "source": "semantic_scholar",
+    "published_date": "2026-08-07",
+    "doi": null,
+    "arxiv_id": "2608.06680",
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://arxiv.org/abs/2608.06680",
+    "venue": "",
+    "citation_count": 0,
+    "domains": [
+      "materials",
+      "biology"
+    ],
+    "code_url": null,
+    "paper_type": "review",
+    "llm_on_topic": false,
+    "venue_llm": null,
+    "relevance": 45
+  },
+  {
+    "title": "When Sunlight\nMakes Materials Move: A Laboratory Experiment\nDemonstrating Solar-Driven Hydrogel Actuator",
+    "authors": [
+      "Panpan Zhang",
+      "Yaqi Tian",
+      "Keyang Shen",
+      "Shijie Xing",
+      "Di Mu",
+      "Jing Wang",
+      "Yang Zhao",
+      "Zhiyong Ji"
+    ],
+    "abstract": "\n Hydrogels, owing to their softness, deformability, and responsiveness to external stimuli, are widely employed in soft robotics as materials for actuation, sensing, and self-healing, enabling biomimetic motion and intelligent control. This laboratory experiment introduces upper-division undergraduate students to the concept of a solar-driven hydrogel actuator by fabricating and demonstrating a temperature-responsive hydrogel. Students prepare a temperature-sensitive poly(N-isopropylacrylamide) (PNIPAm) hydrogel incorporated with polypyrrole, a black photothermal additive that enhances sunlight absorption and photothermal conversion ability. Under solar irradiation, the temperature gradient between the upper and lower hydrogel layers induces asymmetric volume changes, resulting in visible",
+    "source": "semantic_scholar",
+    "published_date": "2026-08-01",
+    "doi": "10.1021/acs.jchemed.5c01789",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.1021/acs.jchemed.5c01789",
+    "venue": "Journal of Chemical Education",
+    "citation_count": 0,
+    "domains": [
+      "chemistry",
+      "materials"
+    ],
+    "code_url": null,
+    "paper_type": "article",
+    "llm_on_topic": false,
+    "venue_llm": "Journal of Chemical Education",
+    "relevance": 25
+  },
+  {
+    "title": "The rise of robotics in self-driving labs",
+    "authors": [
+      "Christopher H. J. Moran",
+      "Jinge Xu",
+      "M. Abolhasani"
+    ],
+    "abstract": "Self-driving laboratories (SDLs) combine robotics with algorithmic decision-making to autonomously design, execute, and analyze experiments, and deftly explore the large, high-dimensional parameter spaces that confound conventional experimental approaches. This Perspective examines autonomous robotics\u2019 roles in SDLs, challenges currently limiting generalizability and scalability, and emerging innovations in robotics could address them, thereby highlighting how the integration of advanced robotics could enable far more rapid, reproducible, and accessible experimentation across disciplines.",
+    "source": "semantic_scholar",
+    "published_date": "2026-05-16",
+    "doi": "10.1038/s44182-026-00094-z",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://www.nature.com/articles/s44182-026-00094-z_reference.pdf",
+    "venue": "npj Robotics",
+    "citation_count": 1,
+    "domains": [
+      "biology"
+    ],
+    "code_url": null,
+    "paper_type": "review",
+    "llm_on_topic": true,
+    "venue_llm": "npj Robotics",
+    "relevance": 92
+  },
+  {
+    "title": "BioInsight: Multi-Agent Orchestration for Interactive Biomedical Knowledge Discovery",
+    "authors": [
+      "Jie Wang",
+      "Bingxuan Li",
+      "Nan Jiang",
+      "Desong Meng",
+      "Zirui Fan",
+      "Yuxin Guo",
+      "Jiayu Liu",
+      "Kunlun Zhu",
+      "Eddie Yang",
+      "Xiusi Chen",
+      "Pan Lu",
+      "Bingxin Zhao"
+    ],
+    "abstract": "Biomedical deep-research systems increasingly retrieve and synthesize scientific evidence, but their outputs typically collapse heterogeneous evidence into static text, making provenance difficult to inspect and reuse. We formulate evidence-centered biomedical knowledge discovery, where disease-associated protein signals are transformed into a structured evidence state connecting proteins, pathways, publications, interactions, claims, and uncertainty. We introduce BioInsight, a provenance-preserving multi-agent orchestration framework built around typed artifact contracts and an independent Search Agent that decouples evidence acquisition from downstream mechanistic reasoning, supporting both the citation-grounded report and an interactive evidence workspace, without independently regenera",
+    "source": "semantic_scholar",
+    "published_date": "2026-06-19",
+    "doi": "10.48550/arXiv.2606.20997",
+    "arxiv_id": "2606.20997",
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://arxiv.org/abs/2606.20997",
+    "venue": "arXiv.org",
+    "citation_count": 1,
+    "domains": [
+      "chemistry",
+      "biology"
+    ],
+    "code_url": null,
+    "paper_type": "article",
+    "llm_on_topic": true,
+    "venue_llm": "arXiv.org",
+    "relevance": 87
+  },
+  {
+    "title": "Physics-Informed and Knowledge-Driven Generative AI for Autonomous Discovery of Porous Oxide Energy Materials: Opportunities and Challenges",
+    "authors": [
+      "Dibakar Datta"
+    ],
+    "abstract": "The discovery of next-generation energy-storage materials is increasingly limited by the complexity of the underlying design problem rather than by computational capability alone. Porous transition-metal oxides represent a particularly challenging class of battery materials because their performance emerges from coupled interactions among crystal chemistry, pore architecture, ion transport, electrochemistry, electro-chemo-mechanics, synthesis, manufacturing, and battery-system operation. Recent advances in generative artificial intelligence (AI) have demonstrated remarkable capabilities for generating chemically plausible crystal structures. However, current approaches remain largely focused on crystallographic validity and thermodynamic stability. This perspective presents a roadmap for a",
+    "source": "semantic_scholar",
+    "published_date": "2026-08-03",
+    "doi": null,
+    "arxiv_id": "2608.02858",
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://arxiv.org/abs/2608.02858",
+    "venue": "",
+    "citation_count": 0,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null,
+    "paper_type": "article",
+    "llm_on_topic": true,
+    "venue_llm": null,
+    "relevance": 75
+  },
+  {
+    "title": "Artificial Intelligence-Driven Natural Product Drug Discovery: From Computational Genome Mining to Clinical Translation.",
+    "authors": [
+      "Antonio Lavecchia"
+    ],
+    "abstract": "Natural products (NPs) have historically yielded numerous therapeutic agents, yet their integration into modern drug discovery has been constrained by chemical complexity, low abundance, laborious dereplication, and limited target annotation. Convergence of multi-omics technologies with high-resolution structural and biological data has created unprecedented opportunities for artificial intelligence (AI) to accelerate NP-based therapeutics development. This review provides an operational, end-to-end workflow that explicitly connects computational predictions to medicinal chemistry decision points, addressing a critical gap between computational prediction and clinical translation. We trace the complete discovery pipeline: computational mining of biosynthetic gene clusters (BGCs) and metabo",
+    "source": "semantic_scholar",
+    "published_date": "2026-08-07",
+    "doi": "10.1002/med.70098",
+    "arxiv_id": null,
+    "pubmed_id": "42565648",
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.1002/med.70098",
+    "venue": "Medicinal research reviews (Print)",
+    "citation_count": 0,
+    "domains": [
+      "chemistry",
+      "biology"
+    ],
+    "code_url": null,
+    "paper_type": "review",
+    "llm_on_topic": false,
+    "venue_llm": "Medicinal research reviews (Print)",
+    "relevance": 40
+  },
+  {
+    "title": "AI-Driven Rational Design of Solid-State Electrolytes",
+    "authors": [
+      "Jiaying He",
+      "Zama Jan",
+      "Heqin Guo",
+      "Qiang Wang",
+      "Haleem Ud Din",
+      "Guoping Gao",
+      "Yaqiong Su"
+    ],
+    "abstract": "The solid-state electrolytes (SSE) are gaining tremendous attention in designing rechargeable batteries with remarkable energy density and safety features for next-generation energy storage device applications. The rational design of SSE with promising ionic conductivity, higher electrochemical stability windows, and stable electrode-electrolyte interfaces remain a formidable challenge, traditionally hindered by trial-and-error experimentation and computationally expensive theoretical simulations. Here, we systematically review the recent breakthroughs in the artificial intelligence (AI)-driven design of SSE, spanning electrochemical stability and ionic conductivity domains, with a particular focus on how machine learning (ML) and deep learning (DL) are fundamentally transforming the disco",
+    "source": "semantic_scholar",
+    "published_date": "2026-08-05",
+    "doi": "10.53941/aimat.2026.100012",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.53941/aimat.2026.100012",
+    "venue": "AI for Materials",
+    "citation_count": 0,
+    "domains": [
+      "chemistry",
+      "materials",
+      "biology"
+    ],
+    "code_url": null,
+    "paper_type": "review",
+    "llm_on_topic": true,
+    "venue_llm": "AI for Materials",
+    "relevance": 70
+  },
+  {
+    "title": "Multimodal Flow Matching for Laboratory-Aware Harmonization of Multi-Source Nanomaterials Synthesis Data Extracted from the Literature",
+    "authors": [
+      "Nayeon Kim",
+      "Heeseung Lee",
+      "Daeho Kim",
+      "Hyuk Jun Yoo",
+      "Sang Soo Han"
+    ],
+    "abstract": "Scientific literature contains a vast record of experimental procedures, yet identical numerical conditions often produce different outcomes across laboratories because critical procedural information is embedded in natural language. Here, we present DATUM (Domain Alignment Through Unified Multimodal representation), a multimodal framework that aligns literature-reported synthesis with laboratory measurements by jointly modeling numerical conditions and procedural text. DATUM integrates bidirectional co-attention, condition-guided text fusion, and conditional flow matching to learn a continuous transformation from literature-reported to laboratory-aligned outcomes. Using automated gold nanorod synthesis across two experimental platforms, DATUM substantially outperforms condition-only and c",
+    "source": "chemrxiv",
+    "published_date": "2026-08-03",
+    "doi": "10.26434/chemrxiv.15006977/v1",
+    "arxiv_id": null,
+    "pubmed_id": null,
+    "biorxiv_id": null,
+    "url": "https://doi.org/10.26434/chemrxiv.15006977/v1",
+    "venue": "chemRxiv",
+    "citation_count": null,
+    "domains": [
+      "chemistry",
+      "materials"
+    ],
+    "code_url": null,
+    "paper_type": "article",
+    "llm_on_topic": true,
+    "venue_llm": "chemRxiv",
+    "relevance": 82
   }
 ]
