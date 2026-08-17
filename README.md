@@ -9,7 +9,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 <!-- PAPERS_START -->
 
-*Auto-updated 2026-08-10 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
+*Auto-updated 2026-08-17 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
 
 ### Top Papers (by relevance)
 
@@ -31,7 +31,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 | [End-to-end discovery of MOFs for ambient CH4 adsorption](https://doi.org/10.26434/chemrxiv.15003500/v1) | 2026-05-18 | chemRxiv | - |
 | [Qumus: Realization of An Embodied AI Quantum Material Experimentalist](https://arxiv.org/abs/2605.18407) | 2026-05-18 | arXiv | - |
 | [Autonomous microfluidic experimentation for exploring reaction inference and syn…](https://doi.org/10.1038/s41467-026-72765-2) | 2026-05-04 | Nat. Commun. | - |
-| [Agentic LLM Reasoning in a Self-Driving Laboratory for Air-Sensitive Lithium Hal…](http://arxiv.org/abs/2604.11957v1) | 2026-04-13 | arXiv | - |
+| [Agentic LLM Reasoning in a Self-Driving Laboratory for Air-Sensitive Lithium Hal…](http://arxiv.org/abs/2604.11957v1) | 2026-04-13 | arXiv | [Code](https://github.com/CederGroupHub/alab_gpss_public) |
 | [ChemVLMate: a multimodal, dual-arm, seeing robotic chemist for adaptive synthesi…](https://doi.org/10.26434/chemrxiv.15001727/v1) | 2026-04-08 | chemRxiv | [Code](https://github.com/pic-ai-robotic-chemistry/ChemVLMate) |
 | [MatClaw: An Autonomous Code-First LLM Agent for End-to-End Materials Exploration](http://arxiv.org/abs/2604.02688v2) | 2026-04-03 | arXiv | [Code](https://github.com/cz2014/MatClaw) |
 | [SimMOF: AI agent for Automated MOF Simulations](https://arxiv.org/abs/2603.29152) | 2026-03-31 | arXiv | [Code](https://github.com/skyljw0714/SimMOF) |
@@ -39,7 +39,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 | [Toward self-driving laboratory 2.0 for chemistry and materials discovery.](https://doi.org/10.1039/d5mh01984b) | 2026-03-10 | Materials Horizons | - |
 | [Catalyst-Agent: Autonomous heterogeneous catalyst screening and optimization wit…](https://arxiv.org/abs/2603.01311) | 2026-03-01 | arXiv | - |
 | [Discovery Science with Autonomous ML-Driven Continuous Flow Chemistry](https://doi.org/10.26434/chemrxiv.15000295/v1) | 2026-02-22 | chemRxiv | - |
-| [Hierarchical Multi-agent Large Language Model Reasoning for Autonomous Functiona…](https://arxiv.org/abs/2512.13930) | 2025-12-15 | arXiv | - |
+| [Hierarchical Multi-agent Large Language Model Reasoning for Autonomous Functiona…](https://arxiv.org/abs/2512.13930) | 2025-12-15 | arXiv | [Code](https://github.com/openai/openai-agents-python) |
 | [ChemCoScientist: LLM-Based Multi-Agent Assistant for Automated Solving of Chemic…](https://doi.org/10.1109/ICDMW69685.2025.00325) | 2025-11-12 | 2025 IEEE Internationa… | - |
 | [Autonomous multi-robot synthesis and optimization of metal halide perovskite nan…](https://doi.org/10.1038/s41467-025-63209-4) | 2025-08-22 | Nat. Commun. | - |
 | [FROGENT: An End-to-End Full-process Drug Design Multi-Agent System](https://arxiv.org/abs/2508.10760) | 2025-08-14 | arXiv | [Code](https://github.com/SZU-ADDG/Frogent) |
@@ -57,7 +57,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 | [AIMS: An uncertainty-aware AI experimentalist for quantum matter](https://arxiv.org/abs/2607.16544) | 2026-07-17 | arXiv | - |
 | [A Modular and Affordable Self-Driving Laboratory for Vision-Guided Optimization …](https://doi.org/10.1021/acsami.6c08121) | 2026-06-30 | ACS Applied Materials … | - |
 | [Latent mechanism mapping in self-driving molecular electrocatalysis](https://doi.org/10.26434/chemrxiv.15005417/v1) | 2026-06-29 | chemRxiv | - |
-| [An LLM System for Autonomous Variational Quantum Circuit Design](https://arxiv.org/abs/2606.13380) | 2026-06-11 | arXiv | - |
+| [An LLM System for Autonomous Variational Quantum Circuit Design](https://arxiv.org/abs/2606.13380) | 2026-06-11 | arXiv | [Code](https://github.com/Qyusu/astronaut) |
 | [PeLED Agent: an evidence-grounded agentic workflow for additive discovery in per…](https://doi.org/10.26434/chemrxiv.15004608/v1) | 2026-06-10 | chemRxiv | - |
 | [Autonomous Discovery of Multi-Step Reaction Networks for Fe2O3 Reduction: Step-w…](https://doi.org/10.26434/chemrxiv.15004451/v1) | 2026-06-08 | chemRxiv | - |
 | [AutoDFT: A Closed-Loop Multi-Agent Framework for Autonomous DFT Calculations](https://arxiv.org/abs/2605.26179) | 2026-05-25 | arXiv | [Code](https://github.com/shenvilab/autodft) |
@@ -68,7 +68,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 | [ARES OS 2.0: An Orchestration Software Suite for Autonomous Experimentation Syst…](http://arxiv.org/abs/2604.03440v1) | 2026-04-03 | arXiv | [Code](https://github.com/AFRL-ARES/ARES/releases) |
 | [AP-Lab: An AI-Driven Autonomous Pilot-Scale Platform Bridging Materials Discover…](https://pubmed.ncbi.nlm.nih.gov/41677392/) | 2026-04-01 | Adv. Sci. | - |
 | [Bridging electron microscopy and materials analysis with an autonomous agentic p…](https://doi.org/10.1126/sciadv.aed0583) | 2026-04-01 | Sci. Adv. | [Code](https://github.com/PEESEgroup/EMSeek) |
-| [Self-evolving AI agents for protein discovery and directed evolution](http://arxiv.org/abs/2603.27303v1) | 2026-03-28 | arXiv | - |
+| [Self-evolving AI agents for protein discovery and directed evolution](http://arxiv.org/abs/2603.27303v1) | 2026-03-28 | arXiv | [Code](https://github.com/ai4protein/VenusFactory2) |
 | [Autonomous Agents Coordinating Distributed Discovery Through Emergent Artifact E…](https://arxiv.org/abs/2603.14312) | 2026-03-15 | arXiv | [Code](https://github.com/lamm-mit/scienceclaw) |
 | [QUASAR: A Universal Autonomous System for Atomistic Simulation and a Benchmark o…](https://arxiv.org/abs/2602.00185) | 2026-01-30 | JCIM | [Code](https://github.com/fengxuyy/QUASAR) |
 | [Agentic reinforcement learning empowers next-generation chemical language models…](https://arxiv.org/abs/2601.17687) | 2026-01-25 | arXiv | [Code](https://github.com/HowardLi1984/ChemCraft) |
@@ -83,11 +83,11 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 | Title | Year | Venue | Citations |
 | --- | --- | --- | ---: |
-| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 550 |
-| [Next-Generation Experimentation with Self-Driving Laboratories](https://doi.org/10.1016/J.TRECHM.2019.02.007) | 2019 | Trends in Chemistry | 319 |
-| [A review of large language models and autonomous agents in chemistry](https://arxiv.org/abs/2407.01603) | 2024 | Chem. Sci. | 245 |
-| [Large language model agents for biological intelligence across genomics, proteom…](https://doi.org/10.1093/bib/bbag110) | 2026 | Briefings in Bioinform… | 5 |
-| [Bridging data and discovery: a survey on knowledge graphs in AI for science](https://doi.org/10.1093/nsr/nwag140) | 2026 | National Science Revie… | 5 |
+| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 563 |
+| [Next-Generation Experimentation with Self-Driving Laboratories](https://doi.org/10.1016/J.TRECHM.2019.02.007) | 2019 | Trends in Chemistry | 327 |
+| [A review of large language models and autonomous agents in chemistry](https://arxiv.org/abs/2407.01603) | 2024 | Chem. Sci. | 247 |
+| [Large language model agents for biological intelligence across genomics, proteom…](https://doi.org/10.1093/bib/bbag110) | 2026 | Briefings in Bioinform… | 7 |
+| [Bridging data and discovery: a survey on knowledge graphs in AI for science](https://doi.org/10.1093/nsr/nwag140) | 2026 | National Science Revie… | 6 |
 | [Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Futur…](https://arxiv.org/abs/2503.08979) | 2025 | arXiv | 103 |
 
 <!-- PAPERS_END -->
